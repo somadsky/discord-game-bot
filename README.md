@@ -48,5 +48,5 @@ Jika Anda yakin token Anda telah ter-expose, segera reset melalui [Discord Devel
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/somadsky/discord-game-bot
+git clone https://github.com/USERNAME/discord-game-bot.git
 cd discord-game-bot

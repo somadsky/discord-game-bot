@@ -1,0 +1,5002 @@
+[
+  {
+    "q": "Sebutkan hewan yang biasa dipelihara di rumah!",
+    "jawaban": [
+      {
+        "j": "kucing",
+        "p": 30
+      },
+      {
+        "j": "anjing",
+        "p": 25
+      },
+      {
+        "j": "ikan",
+        "p": 20
+      },
+      {
+        "j": "burung",
+        "p": 15
+      },
+      {
+        "j": "kelinci",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang ada di kamar tidur!",
+    "jawaban": [
+      {
+        "j": "kasur",
+        "p": 35
+      },
+      {
+        "j": "bantal",
+        "p": 25
+      },
+      {
+        "j": "lemari",
+        "p": 20
+      },
+      {
+        "j": "selimut",
+        "p": 15
+      },
+      {
+        "j": "kaca",
+        "p": 5
+      }
+    ]
+  },
+  {
+    "q": "Hal yang orang lakukan saat bangun tidur!",
+    "jawaban": [
+      {
+        "j": "ke kamar mandi",
+        "p": 40
+      },
+      {
+        "j": "minum air",
+        "p": 20
+      },
+      {
+        "j": "cek hp",
+        "p": 25
+      },
+      {
+        "j": "stretching",
+        "p": 10
+      },
+      {
+        "j": "rapikan tempat tidur",
+        "p": 5
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan hewan yang biasa dipelihara di rumah! (2)",
+    "jawaban": [
+      {
+        "j": "katak",
+        "p": 50
+      },
+      {
+        "j": "buaya",
+        "p": 40
+      },
+      {
+        "j": "monyet",
+        "p": 30
+      },
+      {
+        "j": "kambing",
+        "p": 20
+      },
+      {
+        "j": "singa",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang ada di kamar tidur! (2)",
+    "jawaban": [
+      {
+        "j": "meja",
+        "p": 50
+      },
+      {
+        "j": "tas",
+        "p": 40
+      },
+      {
+        "j": "bantal",
+        "p": 30
+      },
+      {
+        "j": "charger",
+        "p": 20
+      },
+      {
+        "j": "kunci",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Hal yang orang lakukan saat bangun tidur! (2)",
+    "jawaban": [
+      {
+        "j": "main hp",
+        "p": 50
+      },
+      {
+        "j": "rebahan",
+        "p": 40
+      },
+      {
+        "j": "ngobrol",
+        "p": 30
+      },
+      {
+        "j": "belajar",
+        "p": 20
+      },
+      {
+        "j": "mengepel",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan minuman yang disajikan dingin!",
+    "jawaban": [
+      {
+        "j": "es kelapa",
+        "p": 50
+      },
+      {
+        "j": "susu",
+        "p": 40
+      },
+      {
+        "j": "jus alpukat",
+        "p": 30
+      },
+      {
+        "j": "jus mangga",
+        "p": 20
+      },
+      {
+        "j": "wedang jahe",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan makanan khas Indonesia!",
+    "jawaban": [
+      {
+        "j": "es campur",
+        "p": 50
+      },
+      {
+        "j": "pisang goreng",
+        "p": 40
+      },
+      {
+        "j": "jus jeruk",
+        "p": 30
+      },
+      {
+        "j": "rendang",
+        "p": 20
+      },
+      {
+        "j": "gudeg",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan tempat favorit untuk liburan keluarga!",
+    "jawaban": [
+      {
+        "j": "perpustakaan",
+        "p": 50
+      },
+      {
+        "j": "pasar",
+        "p": 40
+      },
+      {
+        "j": "gereja",
+        "p": 30
+      },
+      {
+        "j": "sekolah",
+        "p": 20
+      },
+      {
+        "j": "museum",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan alat makan!",
+    "jawaban": [
+      {
+        "j": "piring saji",
+        "p": 50
+      },
+      {
+        "j": "sendok",
+        "p": 40
+      },
+      {
+        "j": "pisau",
+        "p": 30
+      },
+      {
+        "j": "garpu",
+        "p": 20
+      },
+      {
+        "j": "nampan",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan buah berwarna kuning!",
+    "jawaban": [
+      {
+        "j": "pepaya kuning",
+        "p": 50
+      },
+      {
+        "j": "pepaya",
+        "p": 40
+      },
+      {
+        "j": "kurma",
+        "p": 30
+      },
+      {
+        "j": "mangga",
+        "p": 20
+      },
+      {
+        "j": "nanas",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan jenis transportasi umum!",
+    "jawaban": [
+      {
+        "j": "kuda",
+        "p": 50
+      },
+      {
+        "j": "taksi",
+        "p": 40
+      },
+      {
+        "j": "scooter",
+        "p": 30
+      },
+      {
+        "j": "kereta",
+        "p": 20
+      },
+      {
+        "j": "van",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan pekerjaan yang sering dilakukan di dapur!",
+    "jawaban": [
+      {
+        "j": "membersihkan",
+        "p": 50
+      },
+      {
+        "j": "memasak",
+        "p": 40
+      },
+      {
+        "j": "mengupas",
+        "p": 30
+      },
+      {
+        "j": "mencuci piring",
+        "p": 20
+      },
+      {
+        "j": "memanggang",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang sering hilang di rumah!",
+    "jawaban": [
+      {
+        "j": "remote",
+        "p": 50
+      },
+      {
+        "j": "pulpen",
+        "p": 40
+      },
+      {
+        "j": "kaos kaki",
+        "p": 30
+      },
+      {
+        "j": "charger",
+        "p": 20
+      },
+      {
+        "j": "kunci",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan merek mie instan terkenal!",
+    "jawaban": [
+      {
+        "j": "sarimi",
+        "p": 50
+      },
+      {
+        "j": "mie sedap",
+        "p": 40
+      },
+      {
+        "j": "mie sedap pedas",
+        "p": 30
+      },
+      {
+        "j": "kobe",
+        "p": 20
+      },
+      {
+        "j": "supermi",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan warna dasar!",
+    "jawaban": [
+      {
+        "j": "merah",
+        "p": 50
+      },
+      {
+        "j": "marun",
+        "p": 40
+      },
+      {
+        "j": "beige",
+        "p": 30
+      },
+      {
+        "j": "putih",
+        "p": 20
+      },
+      {
+        "j": "navy",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan kegiatan di pantai!",
+    "jawaban": [
+      {
+        "j": "berselancar",
+        "p": 50
+      },
+      {
+        "j": "berjemur",
+        "p": 40
+      },
+      {
+        "j": "piknik",
+        "p": 30
+      },
+      {
+        "j": "naik perahu",
+        "p": 20
+      },
+      {
+        "j": "berenang",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang digunakan untuk menulis!",
+    "jawaban": [
+      {
+        "j": "spidol",
+        "p": 50
+      },
+      {
+        "j": "notebook",
+        "p": 40
+      },
+      {
+        "j": "pena",
+        "p": 30
+      },
+      {
+        "j": "kertas",
+        "p": 20
+      },
+      {
+        "j": "stapler",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan pekerjaan yang bertugas di rumah sakit!",
+    "jawaban": [
+      {
+        "j": "guru",
+        "p": 50
+      },
+      {
+        "j": "tukang listrik",
+        "p": 40
+      },
+      {
+        "j": "satpam",
+        "p": 30
+      },
+      {
+        "j": "programmer",
+        "p": 20
+      },
+      {
+        "j": "montir",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan sayuran yang sering dibuat sup!",
+    "jawaban": [
+      {
+        "j": "selada",
+        "p": 50
+      },
+      {
+        "j": "seledri",
+        "p": 40
+      },
+      {
+        "j": "tomat",
+        "p": 30
+      },
+      {
+        "j": "daun bawang",
+        "p": 20
+      },
+      {
+        "j": "brokoli",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan makanan yang digoreng!",
+    "jawaban": [
+      {
+        "j": "gorengan",
+        "p": 50
+      },
+      {
+        "j": "tahu goreng",
+        "p": 40
+      },
+      {
+        "j": "cireng",
+        "p": 30
+      },
+      {
+        "j": "pisang molen",
+        "p": 20
+      },
+      {
+        "j": "kentang goreng",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan jenis kue!",
+    "jawaban": [
+      {
+        "j": "cookies",
+        "p": 50
+      },
+      {
+        "j": "klepon",
+        "p": 40
+      },
+      {
+        "j": "onde-onde",
+        "p": 30
+      },
+      {
+        "j": "kue lapis",
+        "p": 20
+      },
+      {
+        "j": "lapis legit",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang ada di tas wanita!",
+    "jawaban": [
+      {
+        "j": "tisu",
+        "p": 50
+      },
+      {
+        "j": "bedak",
+        "p": 40
+      },
+      {
+        "j": "hand sanitizer",
+        "p": 30
+      },
+      {
+        "j": "hp",
+        "p": 20
+      },
+      {
+        "j": "kunci",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang sering dibawa saat jalan-jalan!",
+    "jawaban": [
+      {
+        "j": "pulpen",
+        "p": 50
+      },
+      {
+        "j": "selimut",
+        "p": 40
+      },
+      {
+        "j": "remote",
+        "p": 30
+      },
+      {
+        "j": "charger",
+        "p": 20
+      },
+      {
+        "j": "bantal",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan makanan yang disajikan saat sarapan!",
+    "jawaban": [
+      {
+        "j": "bubur",
+        "p": 50
+      },
+      {
+        "j": "bubur ayam",
+        "p": 40
+      },
+      {
+        "j": "pancake",
+        "p": 30
+      },
+      {
+        "j": "kue",
+        "p": 20
+      },
+      {
+        "j": "nasi goreng",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan hal yang sering dilakukan sebelum tidur!",
+    "jawaban": [
+      {
+        "j": "jalan-jalan",
+        "p": 50
+      },
+      {
+        "j": "memasak",
+        "p": 40
+      },
+      {
+        "j": "mandi",
+        "p": 30
+      },
+      {
+        "j": "berkebun",
+        "p": 20
+      },
+      {
+        "j": "main hp",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan permainan tradisional!",
+    "jawaban": [
+      {
+        "j": "egrang",
+        "p": 50
+      },
+      {
+        "j": "kelereng",
+        "p": 40
+      },
+      {
+        "j": "gobak sodor",
+        "p": 30
+      },
+      {
+        "j": "petak umpet",
+        "p": 20
+      },
+      {
+        "j": "bakiak",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang ada di dapur!",
+    "jawaban": [
+      {
+        "j": "sepatu",
+        "p": 50
+      },
+      {
+        "j": "telepon",
+        "p": 40
+      },
+      {
+        "j": "buku",
+        "p": 30
+      },
+      {
+        "j": "selimut",
+        "p": 20
+      },
+      {
+        "j": "remote",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan hewan yang hidup di air!",
+    "jawaban": [
+      {
+        "j": "kepiting",
+        "p": 50
+      },
+      {
+        "j": "kerang",
+        "p": 40
+      },
+      {
+        "j": "gurita",
+        "p": 30
+      },
+      {
+        "j": "ubur-ubur",
+        "p": 20
+      },
+      {
+        "j": "lobster",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan merek minuman bersoda!",
+    "jawaban": [
+      {
+        "j": "coca cola",
+        "p": 50
+      },
+      {
+        "j": "mountain dew",
+        "p": 40
+      },
+      {
+        "j": "pepsi max",
+        "p": 30
+      },
+      {
+        "j": "sprite",
+        "p": 20
+      },
+      {
+        "j": "coke zero",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan pekerjaan yang berhubungan dengan komputer!",
+    "jawaban": [
+      {
+        "j": "desainer",
+        "p": 50
+      },
+      {
+        "j": "tester",
+        "p": 40
+      },
+      {
+        "j": "programmer",
+        "p": 30
+      },
+      {
+        "j": "web developer",
+        "p": 20
+      },
+      {
+        "j": "data analyst",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang menggunakan listrik!",
+    "jawaban": [
+      {
+        "j": "charger",
+        "p": 50
+      },
+      {
+        "j": "radio",
+        "p": 40
+      },
+      {
+        "j": "microwave",
+        "p": 30
+      },
+      {
+        "j": "kulkas",
+        "p": 20
+      },
+      {
+        "j": "kipas",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan tempat yang sering dijadikan lokasi foto prewedding!",
+    "jawaban": [
+      {
+        "j": "pantai",
+        "p": 50
+      },
+      {
+        "j": "gunung",
+        "p": 40
+      },
+      {
+        "j": "gedung tua",
+        "p": 30
+      },
+      {
+        "j": "balai kota",
+        "p": 20
+      },
+      {
+        "j": "kafe estetis",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan hewan yang biasa dipelihara di rumah! (3)",
+    "jawaban": [
+      {
+        "j": "kura-kura",
+        "p": 50
+      },
+      {
+        "j": "singa",
+        "p": 40
+      },
+      {
+        "j": "ikan",
+        "p": 30
+      },
+      {
+        "j": "gajah",
+        "p": 20
+      },
+      {
+        "j": "burung",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang ada di kamar tidur! (3)",
+    "jawaban": [
+      {
+        "j": "gelas",
+        "p": 50
+      },
+      {
+        "j": "sepatu",
+        "p": 40
+      },
+      {
+        "j": "buku",
+        "p": 30
+      },
+      {
+        "j": "kunci",
+        "p": 20
+      },
+      {
+        "j": "pulpen",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Hal yang orang lakukan saat bangun tidur! (3)",
+    "jawaban": [
+      {
+        "j": "berdoa",
+        "p": 50
+      },
+      {
+        "j": "main hp",
+        "p": 40
+      },
+      {
+        "j": "menyapu",
+        "p": 30
+      },
+      {
+        "j": "jalan-jalan",
+        "p": 20
+      },
+      {
+        "j": "tidur",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan minuman yang disajikan dingin! (2)",
+    "jawaban": [
+      {
+        "j": "teh manis",
+        "p": 50
+      },
+      {
+        "j": "air mineral",
+        "p": 40
+      },
+      {
+        "j": "susu kedelai",
+        "p": 30
+      },
+      {
+        "j": "wedang jahe",
+        "p": 20
+      },
+      {
+        "j": "teh hangat",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan makanan khas Indonesia! (2)",
+    "jawaban": [
+      {
+        "j": "tempe goreng",
+        "p": 50
+      },
+      {
+        "j": "es campur",
+        "p": 40
+      },
+      {
+        "j": "rawon",
+        "p": 30
+      },
+      {
+        "j": "mie goreng",
+        "p": 20
+      },
+      {
+        "j": "burger",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan tempat favorit untuk liburan keluarga! (2)",
+    "jawaban": [
+      {
+        "j": "rumah sakit",
+        "p": 50
+      },
+      {
+        "j": "restoran",
+        "p": 40
+      },
+      {
+        "j": "kebun binatang",
+        "p": 30
+      },
+      {
+        "j": "perpustakaan",
+        "p": 20
+      },
+      {
+        "j": "universitas",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan alat makan! (2)",
+    "jawaban": [
+      {
+        "j": "piring saji",
+        "p": 50
+      },
+      {
+        "j": "mangkok",
+        "p": 40
+      },
+      {
+        "j": "pisau",
+        "p": 30
+      },
+      {
+        "j": "nampan",
+        "p": 20
+      },
+      {
+        "j": "gelas",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan buah berwarna kuning! (2)",
+    "jawaban": [
+      {
+        "j": "pisang mas",
+        "p": 50
+      },
+      {
+        "j": "pisang",
+        "p": 40
+      },
+      {
+        "j": "pepaya kuning",
+        "p": 30
+      },
+      {
+        "j": "lemon",
+        "p": 20
+      },
+      {
+        "j": "pepaya",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan jenis transportasi umum! (2)",
+    "jawaban": [
+      {
+        "j": "kano",
+        "p": 50
+      },
+      {
+        "j": "vespa",
+        "p": 40
+      },
+      {
+        "j": "sepeda",
+        "p": 30
+      },
+      {
+        "j": "kuda",
+        "p": 20
+      },
+      {
+        "j": "taksi",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan pekerjaan yang sering dilakukan di dapur! (2)",
+    "jawaban": [
+      {
+        "j": "membersihkan",
+        "p": 50
+      },
+      {
+        "j": "memasak",
+        "p": 40
+      },
+      {
+        "j": "memotong",
+        "p": 30
+      },
+      {
+        "j": "merebus",
+        "p": 20
+      },
+      {
+        "j": "memanggang",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang sering hilang di rumah! (2)",
+    "jawaban": [
+      {
+        "j": "pulpen",
+        "p": 50
+      },
+      {
+        "j": "charger",
+        "p": 40
+      },
+      {
+        "j": "earphone",
+        "p": 30
+      },
+      {
+        "j": "remote",
+        "p": 20
+      },
+      {
+        "j": "kaos kaki",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan merek mie instan terkenal! (2)",
+    "jawaban": [
+      {
+        "j": "cooking",
+        "p": 50
+      },
+      {
+        "j": "mie sedap goreng",
+        "p": 40
+      },
+      {
+        "j": "supermi",
+        "p": 30
+      },
+      {
+        "j": "indomie",
+        "p": 20
+      },
+      {
+        "j": "sarimi",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan warna dasar! (2)",
+    "jawaban": [
+      {
+        "j": "emas",
+        "p": 50
+      },
+      {
+        "j": "lime",
+        "p": 40
+      },
+      {
+        "j": "pink",
+        "p": 30
+      },
+      {
+        "j": "perak",
+        "p": 20
+      },
+      {
+        "j": "kuning",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan kegiatan di pantai! (2)",
+    "jawaban": [
+      {
+        "j": "berjemur",
+        "p": 50
+      },
+      {
+        "j": "piknik",
+        "p": 40
+      },
+      {
+        "j": "berenang",
+        "p": 30
+      },
+      {
+        "j": "foto-foto",
+        "p": 20
+      },
+      {
+        "j": "berselancar",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang digunakan untuk menulis! (2)",
+    "jawaban": [
+      {
+        "j": "kapur tulis",
+        "p": 50
+      },
+      {
+        "j": "marker",
+        "p": 40
+      },
+      {
+        "j": "spidol",
+        "p": 30
+      },
+      {
+        "j": "stapler",
+        "p": 20
+      },
+      {
+        "j": "notebook",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan pekerjaan yang bertugas di rumah sakit! (2)",
+    "jawaban": [
+      {
+        "j": "barista",
+        "p": 50
+      },
+      {
+        "j": "koki",
+        "p": 40
+      },
+      {
+        "j": "aktor",
+        "p": 30
+      },
+      {
+        "j": "sopir truk",
+        "p": 20
+      },
+      {
+        "j": "supir",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan sayuran yang sering dibuat sup! (2)",
+    "jawaban": [
+      {
+        "j": "kol",
+        "p": 50
+      },
+      {
+        "j": "kangkung",
+        "p": 40
+      },
+      {
+        "j": "timun",
+        "p": 30
+      },
+      {
+        "j": "terong",
+        "p": 20
+      },
+      {
+        "j": "bayam",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan makanan yang digoreng! (2)",
+    "jawaban": [
+      {
+        "j": "gorengan",
+        "p": 50
+      },
+      {
+        "j": "kentang goreng",
+        "p": 40
+      },
+      {
+        "j": "oncom goreng",
+        "p": 30
+      },
+      {
+        "j": "tempe goreng",
+        "p": 20
+      },
+      {
+        "j": "cireng",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan jenis kue! (2)",
+    "jawaban": [
+      {
+        "j": "kue putri salju",
+        "p": 50
+      },
+      {
+        "j": "onde-onde",
+        "p": 40
+      },
+      {
+        "j": "pisang coklat",
+        "p": 30
+      },
+      {
+        "j": "cookies",
+        "p": 20
+      },
+      {
+        "j": "klepon",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang ada di tas wanita! (2)",
+    "jawaban": [
+      {
+        "j": "kaca kecil",
+        "p": 50
+      },
+      {
+        "j": "hand sanitizer",
+        "p": 40
+      },
+      {
+        "j": "kunci",
+        "p": 30
+      },
+      {
+        "j": "bedak",
+        "p": 20
+      },
+      {
+        "j": "tisu",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang sering dibawa saat jalan-jalan! (2)",
+    "jawaban": [
+      {
+        "j": "charger",
+        "p": 50
+      },
+      {
+        "j": "handuk",
+        "p": 40
+      },
+      {
+        "j": "tas",
+        "p": 30
+      },
+      {
+        "j": "telepon",
+        "p": 20
+      },
+      {
+        "j": "panci",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan makanan yang disajikan saat sarapan! (2)",
+    "jawaban": [
+      {
+        "j": "pancake",
+        "p": 50
+      },
+      {
+        "j": "telur",
+        "p": 40
+      },
+      {
+        "j": "kue",
+        "p": 30
+      },
+      {
+        "j": "sandwich",
+        "p": 20
+      },
+      {
+        "j": "roti",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan hal yang sering dilakukan sebelum tidur! (2)",
+    "jawaban": [
+      {
+        "j": "mengepel",
+        "p": 50
+      },
+      {
+        "j": "tidur",
+        "p": 40
+      },
+      {
+        "j": "belajar",
+        "p": 30
+      },
+      {
+        "j": "berdoa",
+        "p": 20
+      },
+      {
+        "j": "makan",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan permainan tradisional! (2)",
+    "jawaban": [
+      {
+        "j": "kelereng",
+        "p": 50
+      },
+      {
+        "j": "layangan",
+        "p": 40
+      },
+      {
+        "j": "balap karung",
+        "p": 30
+      },
+      {
+        "j": "congklak",
+        "p": 20
+      },
+      {
+        "j": "gundu",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang ada di dapur! (2)",
+    "jawaban": [
+      {
+        "j": "jaket",
+        "p": 50
+      },
+      {
+        "j": "kaos",
+        "p": 40
+      },
+      {
+        "j": "kursi",
+        "p": 30
+      },
+      {
+        "j": "kunci",
+        "p": 20
+      },
+      {
+        "j": "kompor",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan hewan yang hidup di air! (2)",
+    "jawaban": [
+      {
+        "j": "ikan hiu",
+        "p": 50
+      },
+      {
+        "j": "kerang",
+        "p": 40
+      },
+      {
+        "j": "udang",
+        "p": 30
+      },
+      {
+        "j": "ikan paus",
+        "p": 20
+      },
+      {
+        "j": "kepiting",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan merek minuman bersoda! (2)",
+    "jawaban": [
+      {
+        "j": "coke zero",
+        "p": 50
+      },
+      {
+        "j": "schweppes",
+        "p": 40
+      },
+      {
+        "j": "rc cola",
+        "p": 30
+      },
+      {
+        "j": "pepsi max",
+        "p": 20
+      },
+      {
+        "j": "coca cola",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan pekerjaan yang berhubungan dengan komputer! (2)",
+    "jawaban": [
+      {
+        "j": "programmer",
+        "p": 50
+      },
+      {
+        "j": "desainer",
+        "p": 40
+      },
+      {
+        "j": "web developer",
+        "p": 30
+      },
+      {
+        "j": "data analyst",
+        "p": 20
+      },
+      {
+        "j": "sysadmin",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang menggunakan listrik! (2)",
+    "jawaban": [
+      {
+        "j": "komputer",
+        "p": 50
+      },
+      {
+        "j": "setrika",
+        "p": 40
+      },
+      {
+        "j": "AC",
+        "p": 30
+      },
+      {
+        "j": "microwave",
+        "p": 20
+      },
+      {
+        "j": "radio",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan tempat yang sering dijadikan lokasi foto prewedding! (2)",
+    "jawaban": [
+      {
+        "j": "gunung",
+        "p": 50
+      },
+      {
+        "j": "balai kota",
+        "p": 40
+      },
+      {
+        "j": "studio",
+        "p": 30
+      },
+      {
+        "j": "kolam",
+        "p": 20
+      },
+      {
+        "j": "pantai",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan hewan yang biasa dipelihara di rumah! (4)",
+    "jawaban": [
+      {
+        "j": "kura-kura",
+        "p": 50
+      },
+      {
+        "j": "domba",
+        "p": 40
+      },
+      {
+        "j": "ular",
+        "p": 30
+      },
+      {
+        "j": "buaya",
+        "p": 20
+      },
+      {
+        "j": "sapi",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang ada di kamar tidur! (4)",
+    "jawaban": [
+      {
+        "j": "kompor",
+        "p": 50
+      },
+      {
+        "j": "gelas",
+        "p": 40
+      },
+      {
+        "j": "meja",
+        "p": 30
+      },
+      {
+        "j": "kursi",
+        "p": 20
+      },
+      {
+        "j": "bantal",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Hal yang orang lakukan saat bangun tidur! (4)",
+    "jawaban": [
+      {
+        "j": "bekerja",
+        "p": 50
+      },
+      {
+        "j": "main hp",
+        "p": 40
+      },
+      {
+        "j": "olahraga",
+        "p": 30
+      },
+      {
+        "j": "tidur",
+        "p": 20
+      },
+      {
+        "j": "makan",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan minuman yang disajikan dingin! (3)",
+    "jawaban": [
+      {
+        "j": "wedang jahe",
+        "p": 50
+      },
+      {
+        "j": "minuman energi",
+        "p": 40
+      },
+      {
+        "j": "jus mangga",
+        "p": 30
+      },
+      {
+        "j": "es teh",
+        "p": 20
+      },
+      {
+        "j": "soda",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan makanan khas Indonesia! (3)",
+    "jawaban": [
+      {
+        "j": "mie goreng",
+        "p": 50
+      },
+      {
+        "j": "jus jeruk",
+        "p": 40
+      },
+      {
+        "j": "spaghetti",
+        "p": 30
+      },
+      {
+        "j": "gudeg",
+        "p": 20
+      },
+      {
+        "j": "tempe goreng",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan tempat favorit untuk liburan keluarga! (3)",
+    "jawaban": [
+      {
+        "j": "museum",
+        "p": 50
+      },
+      {
+        "j": "gereja",
+        "p": 40
+      },
+      {
+        "j": "mall",
+        "p": 30
+      },
+      {
+        "j": "perpustakaan",
+        "p": 20
+      },
+      {
+        "j": "kebun binatang",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan alat makan! (3)",
+    "jawaban": [
+      {
+        "j": "nampan",
+        "p": 50
+      },
+      {
+        "j": "pisau",
+        "p": 40
+      },
+      {
+        "j": "cangkir",
+        "p": 30
+      },
+      {
+        "j": "mangkok",
+        "p": 20
+      },
+      {
+        "j": "piring",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan buah berwarna kuning! (3)",
+    "jawaban": [
+      {
+        "j": "jeruk",
+        "p": 50
+      },
+      {
+        "j": "pepaya kuning",
+        "p": 40
+      },
+      {
+        "j": "pisang mas",
+        "p": 30
+      },
+      {
+        "j": "nanas",
+        "p": 20
+      },
+      {
+        "j": "kurma",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan jenis transportasi umum! (3)",
+    "jawaban": [
+      {
+        "j": "truck",
+        "p": 50
+      },
+      {
+        "j": "kereta",
+        "p": 40
+      },
+      {
+        "j": "bus",
+        "p": 30
+      },
+      {
+        "j": "pesawat",
+        "p": 20
+      },
+      {
+        "j": "van",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan pekerjaan yang sering dilakukan di dapur! (3)",
+    "jawaban": [
+      {
+        "j": "menggoreng",
+        "p": 50
+      },
+      {
+        "j": "memotong",
+        "p": 40
+      },
+      {
+        "j": "memanggang",
+        "p": 30
+      },
+      {
+        "j": "mengupas",
+        "p": 20
+      },
+      {
+        "j": "merebus",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang sering hilang di rumah! (3)",
+    "jawaban": [
+      {
+        "j": "pulpen",
+        "p": 50
+      },
+      {
+        "j": "earphone",
+        "p": 40
+      },
+      {
+        "j": "kacamata",
+        "p": 30
+      },
+      {
+        "j": "remote",
+        "p": 20
+      },
+      {
+        "j": "kaos kaki",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan merek mie instan terkenal! (3)",
+    "jawaban": [
+      {
+        "j": "pop mie",
+        "p": 50
+      },
+      {
+        "j": "sarimi",
+        "p": 40
+      },
+      {
+        "j": "indomie",
+        "p": 30
+      },
+      {
+        "j": "cooking",
+        "p": 20
+      },
+      {
+        "j": "supermi",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan warna dasar! (3)",
+    "jawaban": [
+      {
+        "j": "lime",
+        "p": 50
+      },
+      {
+        "j": "marun",
+        "p": 40
+      },
+      {
+        "j": "hijau",
+        "p": 30
+      },
+      {
+        "j": "biru",
+        "p": 20
+      },
+      {
+        "j": "cyan",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan kegiatan di pantai! (3)",
+    "jawaban": [
+      {
+        "j": "berjemur",
+        "p": 50
+      },
+      {
+        "j": "foto-foto",
+        "p": 40
+      },
+      {
+        "j": "berselancar",
+        "p": 30
+      },
+      {
+        "j": "main pasir",
+        "p": 20
+      },
+      {
+        "j": "jalan-jalan",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang digunakan untuk menulis! (3)",
+    "jawaban": [
+      {
+        "j": "spidol",
+        "p": 50
+      },
+      {
+        "j": "crayon",
+        "p": 40
+      },
+      {
+        "j": "stapler",
+        "p": 30
+      },
+      {
+        "j": "pensil",
+        "p": 20
+      },
+      {
+        "j": "kapur tulis",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan pekerjaan yang bertugas di rumah sakit! (3)",
+    "jawaban": [
+      {
+        "j": "perawat",
+        "p": 50
+      },
+      {
+        "j": "akuntan",
+        "p": 40
+      },
+      {
+        "j": "desainer",
+        "p": 30
+      },
+      {
+        "j": "dokter",
+        "p": 20
+      },
+      {
+        "j": "montir",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan sayuran yang sering dibuat sup! (3)",
+    "jawaban": [
+      {
+        "j": "kangkung",
+        "p": 50
+      },
+      {
+        "j": "bawang",
+        "p": 40
+      },
+      {
+        "j": "lobak",
+        "p": 30
+      },
+      {
+        "j": "brokoli",
+        "p": 20
+      },
+      {
+        "j": "kentang",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan makanan yang digoreng! (3)",
+    "jawaban": [
+      {
+        "j": "kentang goreng",
+        "p": 50
+      },
+      {
+        "j": "oncom goreng",
+        "p": 40
+      },
+      {
+        "j": "bakwan",
+        "p": 30
+      },
+      {
+        "j": "gorengan",
+        "p": 20
+      },
+      {
+        "j": "pisang goreng",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan jenis kue! (3)",
+    "jawaban": [
+      {
+        "j": "lapis legit",
+        "p": 50
+      },
+      {
+        "j": "cookies",
+        "p": 40
+      },
+      {
+        "j": "brownies",
+        "p": 30
+      },
+      {
+        "j": "klepon",
+        "p": 20
+      },
+      {
+        "j": "kue bolu",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang ada di tas wanita! (3)",
+    "jawaban": [
+      {
+        "j": "hand sanitizer",
+        "p": 50
+      },
+      {
+        "j": "bedak",
+        "p": 40
+      },
+      {
+        "j": "kaca kecil",
+        "p": 30
+      },
+      {
+        "j": "dompet",
+        "p": 20
+      },
+      {
+        "j": "lipstik",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang sering dibawa saat jalan-jalan! (3)",
+    "jawaban": [
+      {
+        "j": "buku",
+        "p": 50
+      },
+      {
+        "j": "pulpen",
+        "p": 40
+      },
+      {
+        "j": "kaos",
+        "p": 30
+      },
+      {
+        "j": "sepatu",
+        "p": 20
+      },
+      {
+        "j": "kompor",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan makanan yang disajikan saat sarapan! (3)",
+    "jawaban": [
+      {
+        "j": "telur",
+        "p": 50
+      },
+      {
+        "j": "roti",
+        "p": 40
+      },
+      {
+        "j": "kue",
+        "p": 30
+      },
+      {
+        "j": "mie",
+        "p": 20
+      },
+      {
+        "j": "sereal",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan hal yang sering dilakukan sebelum tidur! (3)",
+    "jawaban": [
+      {
+        "j": "bersepeda",
+        "p": 50
+      },
+      {
+        "j": "berlari",
+        "p": 40
+      },
+      {
+        "j": "berdoa",
+        "p": 30
+      },
+      {
+        "j": "mandi",
+        "p": 20
+      },
+      {
+        "j": "jalan-jalan",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan permainan tradisional! (3)",
+    "jawaban": [
+      {
+        "j": "enggrang",
+        "p": 50
+      },
+      {
+        "j": "petak umpet",
+        "p": 40
+      },
+      {
+        "j": "bakiak",
+        "p": 30
+      },
+      {
+        "j": "kelereng",
+        "p": 20
+      },
+      {
+        "j": "gundu",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang ada di dapur! (3)",
+    "jawaban": [
+      {
+        "j": "kursi",
+        "p": 50
+      },
+      {
+        "j": "pulpen",
+        "p": 40
+      },
+      {
+        "j": "selimut",
+        "p": 30
+      },
+      {
+        "j": "piring",
+        "p": 20
+      },
+      {
+        "j": "meja",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan hewan yang hidup di air! (3)",
+    "jawaban": [
+      {
+        "j": "kerang",
+        "p": 50
+      },
+      {
+        "j": "ikan",
+        "p": 40
+      },
+      {
+        "j": "kepiting",
+        "p": 30
+      },
+      {
+        "j": "ubur-ubur",
+        "p": 20
+      },
+      {
+        "j": "udang",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan merek minuman bersoda! (3)",
+    "jawaban": [
+      {
+        "j": "pepsi max",
+        "p": 50
+      },
+      {
+        "j": "fanta",
+        "p": 40
+      },
+      {
+        "j": "mountain dew",
+        "p": 30
+      },
+      {
+        "j": "sprite",
+        "p": 20
+      },
+      {
+        "j": "7up",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan pekerjaan yang berhubungan dengan komputer! (3)",
+    "jawaban": [
+      {
+        "j": "admin",
+        "p": 50
+      },
+      {
+        "j": "devops",
+        "p": 40
+      },
+      {
+        "j": "desainer",
+        "p": 30
+      },
+      {
+        "j": "programmer",
+        "p": 20
+      },
+      {
+        "j": "it support",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang menggunakan listrik! (3)",
+    "jawaban": [
+      {
+        "j": "lampu",
+        "p": 50
+      },
+      {
+        "j": "kulkas",
+        "p": 40
+      },
+      {
+        "j": "AC",
+        "p": 30
+      },
+      {
+        "j": "microwave",
+        "p": 20
+      },
+      {
+        "j": "kipas",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan tempat yang sering dijadikan lokasi foto prewedding! (3)",
+    "jawaban": [
+      {
+        "j": "kafe estetis",
+        "p": 50
+      },
+      {
+        "j": "kebun",
+        "p": 40
+      },
+      {
+        "j": "taman",
+        "p": 30
+      },
+      {
+        "j": "balai kota",
+        "p": 20
+      },
+      {
+        "j": "kolam",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan hewan yang biasa dipelihara di rumah! (5)",
+    "jawaban": [
+      {
+        "j": "buaya",
+        "p": 50
+      },
+      {
+        "j": "kambing",
+        "p": 40
+      },
+      {
+        "j": "domba",
+        "p": 30
+      },
+      {
+        "j": "kelinci",
+        "p": 20
+      },
+      {
+        "j": "burung",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang ada di kamar tidur! (5)",
+    "jawaban": [
+      {
+        "j": "kunci",
+        "p": 50
+      },
+      {
+        "j": "bantal",
+        "p": 40
+      },
+      {
+        "j": "tas",
+        "p": 30
+      },
+      {
+        "j": "piring",
+        "p": 20
+      },
+      {
+        "j": "sepatu",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Hal yang orang lakukan saat bangun tidur! (5)",
+    "jawaban": [
+      {
+        "j": "berkebun",
+        "p": 50
+      },
+      {
+        "j": "olahraga",
+        "p": 40
+      },
+      {
+        "j": "bermain",
+        "p": 30
+      },
+      {
+        "j": "menyapu",
+        "p": 20
+      },
+      {
+        "j": "mengepel",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan minuman yang disajikan dingin! (4)",
+    "jawaban": [
+      {
+        "j": "sirup",
+        "p": 50
+      },
+      {
+        "j": "air mineral",
+        "p": 40
+      },
+      {
+        "j": "air putih",
+        "p": 30
+      },
+      {
+        "j": "coklat panas",
+        "p": 20
+      },
+      {
+        "j": "wedang jahe",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan makanan khas Indonesia! (4)",
+    "jawaban": [
+      {
+        "j": "burger",
+        "p": 50
+      },
+      {
+        "j": "pizza",
+        "p": 40
+      },
+      {
+        "j": "roti",
+        "p": 30
+      },
+      {
+        "j": "jus jeruk",
+        "p": 20
+      },
+      {
+        "j": "soto",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan tempat favorit untuk liburan keluarga! (4)",
+    "jawaban": [
+      {
+        "j": "museum",
+        "p": 50
+      },
+      {
+        "j": "pantai",
+        "p": 40
+      },
+      {
+        "j": "bioskop",
+        "p": 30
+      },
+      {
+        "j": "gereja",
+        "p": 20
+      },
+      {
+        "j": "gunung",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan alat makan! (4)",
+    "jawaban": [
+      {
+        "j": "nampan",
+        "p": 50
+      },
+      {
+        "j": "sumpit",
+        "p": 40
+      },
+      {
+        "j": "gelas",
+        "p": 30
+      },
+      {
+        "j": "mangkok",
+        "p": 20
+      },
+      {
+        "j": "garpu",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan buah berwarna kuning! (4)",
+    "jawaban": [
+      {
+        "j": "pepaya kuning",
+        "p": 50
+      },
+      {
+        "j": "srikaya",
+        "p": 40
+      },
+      {
+        "j": "nanas",
+        "p": 30
+      },
+      {
+        "j": "kurma",
+        "p": 20
+      },
+      {
+        "j": "pepaya",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan jenis transportasi umum! (4)",
+    "jawaban": [
+      {
+        "j": "becak",
+        "p": 50
+      },
+      {
+        "j": "vespa",
+        "p": 40
+      },
+      {
+        "j": "angkot",
+        "p": 30
+      },
+      {
+        "j": "motor",
+        "p": 20
+      },
+      {
+        "j": "pesawat",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan pekerjaan yang sering dilakukan di dapur! (4)",
+    "jawaban": [
+      {
+        "j": "menyusun",
+        "p": 50
+      },
+      {
+        "j": "membersihkan",
+        "p": 40
+      },
+      {
+        "j": "mencuci piring",
+        "p": 30
+      },
+      {
+        "j": "memotong",
+        "p": 20
+      },
+      {
+        "j": "merebus",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang sering hilang di rumah! (4)",
+    "jawaban": [
+      {
+        "j": "kaos kaki",
+        "p": 50
+      },
+      {
+        "j": "stiker",
+        "p": 40
+      },
+      {
+        "j": "earphone",
+        "p": 30
+      },
+      {
+        "j": "kunci",
+        "p": 20
+      },
+      {
+        "j": "remote",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan merek mie instan terkenal! (4)",
+    "jawaban": [
+      {
+        "j": "kobe",
+        "p": 50
+      },
+      {
+        "j": "supermi",
+        "p": 40
+      },
+      {
+        "j": "pop mie",
+        "p": 30
+      },
+      {
+        "j": "mi gelas",
+        "p": 20
+      },
+      {
+        "j": "mie sedap pedas",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan warna dasar! (4)",
+    "jawaban": [
+      {
+        "j": "kuning",
+        "p": 50
+      },
+      {
+        "j": "hitam",
+        "p": 40
+      },
+      {
+        "j": "perak",
+        "p": 30
+      },
+      {
+        "j": "biru",
+        "p": 20
+      },
+      {
+        "j": "coklat",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan kegiatan di pantai! (4)",
+    "jawaban": [
+      {
+        "j": "foto-foto",
+        "p": 50
+      },
+      {
+        "j": "piknik",
+        "p": 40
+      },
+      {
+        "j": "berjemur",
+        "p": 30
+      },
+      {
+        "j": "main pasir",
+        "p": 20
+      },
+      {
+        "j": "berselancar",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang digunakan untuk menulis! (4)",
+    "jawaban": [
+      {
+        "j": "notebook",
+        "p": 50
+      },
+      {
+        "j": "crayon",
+        "p": 40
+      },
+      {
+        "j": "pulpen",
+        "p": 30
+      },
+      {
+        "j": "pensil",
+        "p": 20
+      },
+      {
+        "j": "kapur tulis",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan pekerjaan yang bertugas di rumah sakit! (4)",
+    "jawaban": [
+      {
+        "j": "desainer",
+        "p": 50
+      },
+      {
+        "j": "masinis",
+        "p": 40
+      },
+      {
+        "j": "polisi",
+        "p": 30
+      },
+      {
+        "j": "akuntan",
+        "p": 20
+      },
+      {
+        "j": "programmer",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan sayuran yang sering dibuat sup! (4)",
+    "jawaban": [
+      {
+        "j": "labu",
+        "p": 50
+      },
+      {
+        "j": "sawi",
+        "p": 40
+      },
+      {
+        "j": "terong",
+        "p": 30
+      },
+      {
+        "j": "brokoli",
+        "p": 20
+      },
+      {
+        "j": "kol",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan makanan yang digoreng! (4)",
+    "jawaban": [
+      {
+        "j": "gorengan",
+        "p": 50
+      },
+      {
+        "j": "pisang molen",
+        "p": 40
+      },
+      {
+        "j": "ayam goreng",
+        "p": 30
+      },
+      {
+        "j": "tahu goreng",
+        "p": 20
+      },
+      {
+        "j": "cireng",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan jenis kue! (4)",
+    "jawaban": [
+      {
+        "j": "brownies",
+        "p": 50
+      },
+      {
+        "j": "kue bolu",
+        "p": 40
+      },
+      {
+        "j": "klepon",
+        "p": 30
+      },
+      {
+        "j": "onde-onde",
+        "p": 20
+      },
+      {
+        "j": "nastar",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang ada di tas wanita! (4)",
+    "jawaban": [
+      {
+        "j": "lipstik",
+        "p": 50
+      },
+      {
+        "j": "dompet",
+        "p": 40
+      },
+      {
+        "j": "hp",
+        "p": 30
+      },
+      {
+        "j": "tisu",
+        "p": 20
+      },
+      {
+        "j": "permen",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang sering dibawa saat jalan-jalan! (4)",
+    "jawaban": [
+      {
+        "j": "piring",
+        "p": 50
+      },
+      {
+        "j": "handuk",
+        "p": 40
+      },
+      {
+        "j": "panci",
+        "p": 30
+      },
+      {
+        "j": "dompet",
+        "p": 20
+      },
+      {
+        "j": "charger",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan makanan yang disajikan saat sarapan! (4)",
+    "jawaban": [
+      {
+        "j": "mie",
+        "p": 50
+      },
+      {
+        "j": "bubur",
+        "p": 40
+      },
+      {
+        "j": "bubur ayam",
+        "p": 30
+      },
+      {
+        "j": "roti",
+        "p": 20
+      },
+      {
+        "j": "sandwich",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan hal yang sering dilakukan sebelum tidur! (4)",
+    "jawaban": [
+      {
+        "j": "berkebun",
+        "p": 50
+      },
+      {
+        "j": "bermain",
+        "p": 40
+      },
+      {
+        "j": "tidur",
+        "p": 30
+      },
+      {
+        "j": "ngobrol",
+        "p": 20
+      },
+      {
+        "j": "belajar",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan permainan tradisional! (4)",
+    "jawaban": [
+      {
+        "j": "egrang",
+        "p": 50
+      },
+      {
+        "j": "kelereng",
+        "p": 40
+      },
+      {
+        "j": "bakiak",
+        "p": 30
+      },
+      {
+        "j": "gundu",
+        "p": 20
+      },
+      {
+        "j": "enggrang",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang ada di dapur! (4)",
+    "jawaban": [
+      {
+        "j": "meja",
+        "p": 50
+      },
+      {
+        "j": "piring",
+        "p": 40
+      },
+      {
+        "j": "handuk",
+        "p": 30
+      },
+      {
+        "j": "dompet",
+        "p": 20
+      },
+      {
+        "j": "kursi",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan hewan yang hidup di air! (4)",
+    "jawaban": [
+      {
+        "j": "lobster",
+        "p": 50
+      },
+      {
+        "j": "ikan paus",
+        "p": 40
+      },
+      {
+        "j": "udang",
+        "p": 30
+      },
+      {
+        "j": "kerang",
+        "p": 20
+      },
+      {
+        "j": "kepiting",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan merek minuman bersoda! (4)",
+    "jawaban": [
+      {
+        "j": "pepsi max",
+        "p": 50
+      },
+      {
+        "j": "pepsi",
+        "p": 40
+      },
+      {
+        "j": "coke zero",
+        "p": 30
+      },
+      {
+        "j": "mountain dew",
+        "p": 20
+      },
+      {
+        "j": "sprite",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan pekerjaan yang berhubungan dengan komputer! (4)",
+    "jawaban": [
+      {
+        "j": "web developer",
+        "p": 50
+      },
+      {
+        "j": "mobile developer",
+        "p": 40
+      },
+      {
+        "j": "desainer",
+        "p": 30
+      },
+      {
+        "j": "it support",
+        "p": 20
+      },
+      {
+        "j": "admin",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang menggunakan listrik! (4)",
+    "jawaban": [
+      {
+        "j": "lampu",
+        "p": 50
+      },
+      {
+        "j": "komputer",
+        "p": 40
+      },
+      {
+        "j": "charger",
+        "p": 30
+      },
+      {
+        "j": "kipas",
+        "p": 20
+      },
+      {
+        "j": "radio",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan tempat yang sering dijadikan lokasi foto prewedding! (4)",
+    "jawaban": [
+      {
+        "j": "kafe estetis",
+        "p": 50
+      },
+      {
+        "j": "balai kota",
+        "p": 40
+      },
+      {
+        "j": "kebun",
+        "p": 30
+      },
+      {
+        "j": "taman",
+        "p": 20
+      },
+      {
+        "j": "gunung",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan hewan yang biasa dipelihara di rumah! (6)",
+    "jawaban": [
+      {
+        "j": "kucing",
+        "p": 50
+      },
+      {
+        "j": "gajah",
+        "p": 40
+      },
+      {
+        "j": "anjing",
+        "p": 30
+      },
+      {
+        "j": "domba",
+        "p": 20
+      },
+      {
+        "j": "monyet",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang ada di kamar tidur! (6)",
+    "jawaban": [
+      {
+        "j": "remote",
+        "p": 50
+      },
+      {
+        "j": "buku",
+        "p": 40
+      },
+      {
+        "j": "gelas",
+        "p": 30
+      },
+      {
+        "j": "sepatu",
+        "p": 20
+      },
+      {
+        "j": "telepon",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Hal yang orang lakukan saat bangun tidur! (6)",
+    "jawaban": [
+      {
+        "j": "belajar",
+        "p": 50
+      },
+      {
+        "j": "mengepel",
+        "p": 40
+      },
+      {
+        "j": "bersepeda",
+        "p": 30
+      },
+      {
+        "j": "mandi",
+        "p": 20
+      },
+      {
+        "j": "main hp",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan minuman yang disajikan dingin! (5)",
+    "jawaban": [
+      {
+        "j": "es teh",
+        "p": 50
+      },
+      {
+        "j": "coklat panas",
+        "p": 40
+      },
+      {
+        "j": "teh hangat",
+        "p": 30
+      },
+      {
+        "j": "susu",
+        "p": 20
+      },
+      {
+        "j": "kopi tubruk",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan makanan khas Indonesia! (5)",
+    "jawaban": [
+      {
+        "j": "mie goreng",
+        "p": 50
+      },
+      {
+        "j": "rawon",
+        "p": 40
+      },
+      {
+        "j": "soto",
+        "p": 30
+      },
+      {
+        "j": "tempe goreng",
+        "p": 20
+      },
+      {
+        "j": "ayam goreng",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan tempat favorit untuk liburan keluarga! (5)",
+    "jawaban": [
+      {
+        "j": "bandara",
+        "p": 50
+      },
+      {
+        "j": "rumah sakit",
+        "p": 40
+      },
+      {
+        "j": "kebun binatang",
+        "p": 30
+      },
+      {
+        "j": "mall",
+        "p": 20
+      },
+      {
+        "j": "pasar",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan alat makan! (5)",
+    "jawaban": [
+      {
+        "j": "gelas",
+        "p": 50
+      },
+      {
+        "j": "mangkok",
+        "p": 40
+      },
+      {
+        "j": "piring saji",
+        "p": 30
+      },
+      {
+        "j": "piring",
+        "p": 20
+      },
+      {
+        "j": "sendok",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan buah berwarna kuning! (5)",
+    "jawaban": [
+      {
+        "j": "pepaya kuning",
+        "p": 50
+      },
+      {
+        "j": "jeruk",
+        "p": 40
+      },
+      {
+        "j": "kurma",
+        "p": 30
+      },
+      {
+        "j": "pisang",
+        "p": 20
+      },
+      {
+        "j": "pepaya",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan jenis transportasi umum! (5)",
+    "jawaban": [
+      {
+        "j": "vespa",
+        "p": 50
+      },
+      {
+        "j": "kapal",
+        "p": 40
+      },
+      {
+        "j": "kereta",
+        "p": 30
+      },
+      {
+        "j": "skuter",
+        "p": 20
+      },
+      {
+        "j": "motor",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan pekerjaan yang sering dilakukan di dapur! (5)",
+    "jawaban": [
+      {
+        "j": "mencuci piring",
+        "p": 50
+      },
+      {
+        "j": "menyajikan",
+        "p": 40
+      },
+      {
+        "j": "menyusun",
+        "p": 30
+      },
+      {
+        "j": "merebus",
+        "p": 20
+      },
+      {
+        "j": "memanggang",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang sering hilang di rumah! (5)",
+    "jawaban": [
+      {
+        "j": "earphone",
+        "p": 50
+      },
+      {
+        "j": "kaos kaki",
+        "p": 40
+      },
+      {
+        "j": "kunci",
+        "p": 30
+      },
+      {
+        "j": "topi",
+        "p": 20
+      },
+      {
+        "j": "dompet",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan merek mie instan terkenal! (5)",
+    "jawaban": [
+      {
+        "j": "mi gelas",
+        "p": 50
+      },
+      {
+        "j": "mie sedap pedas",
+        "p": 40
+      },
+      {
+        "j": "cooking",
+        "p": 30
+      },
+      {
+        "j": "pop mie",
+        "p": 20
+      },
+      {
+        "j": "mie sedap goreng",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan warna dasar! (5)",
+    "jawaban": [
+      {
+        "j": "abu-abu",
+        "p": 50
+      },
+      {
+        "j": "marun",
+        "p": 40
+      },
+      {
+        "j": "coklat",
+        "p": 30
+      },
+      {
+        "j": "lime",
+        "p": 20
+      },
+      {
+        "j": "biru",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan kegiatan di pantai! (5)",
+    "jawaban": [
+      {
+        "j": "piknik",
+        "p": 50
+      },
+      {
+        "j": "main pasir",
+        "p": 40
+      },
+      {
+        "j": "berenang",
+        "p": 30
+      },
+      {
+        "j": "berjemur",
+        "p": 20
+      },
+      {
+        "j": "berselancar",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang digunakan untuk menulis! (5)",
+    "jawaban": [
+      {
+        "j": "crayon",
+        "p": 50
+      },
+      {
+        "j": "spidol",
+        "p": 40
+      },
+      {
+        "j": "pensil",
+        "p": 30
+      },
+      {
+        "j": "stapler",
+        "p": 20
+      },
+      {
+        "j": "kapur tulis",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan pekerjaan yang bertugas di rumah sakit! (5)",
+    "jawaban": [
+      {
+        "j": "supir",
+        "p": 50
+      },
+      {
+        "j": "polisi",
+        "p": 40
+      },
+      {
+        "j": "montir",
+        "p": 30
+      },
+      {
+        "j": "pilot",
+        "p": 20
+      },
+      {
+        "j": "akuntan",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan sayuran yang sering dibuat sup! (5)",
+    "jawaban": [
+      {
+        "j": "bawang",
+        "p": 50
+      },
+      {
+        "j": "terong",
+        "p": 40
+      },
+      {
+        "j": "seledri",
+        "p": 30
+      },
+      {
+        "j": "brokoli",
+        "p": 20
+      },
+      {
+        "j": "timun",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan makanan yang digoreng! (5)",
+    "jawaban": [
+      {
+        "j": "tahu goreng",
+        "p": 50
+      },
+      {
+        "j": "kentang goreng",
+        "p": 40
+      },
+      {
+        "j": "cireng",
+        "p": 30
+      },
+      {
+        "j": "oncom goreng",
+        "p": 20
+      },
+      {
+        "j": "ayam goreng",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan jenis kue! (5)",
+    "jawaban": [
+      {
+        "j": "kue lapis",
+        "p": 50
+      },
+      {
+        "j": "kue putri salju",
+        "p": 40
+      },
+      {
+        "j": "onde-onde",
+        "p": 30
+      },
+      {
+        "j": "lapis legit",
+        "p": 20
+      },
+      {
+        "j": "cookies",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang ada di tas wanita! (5)",
+    "jawaban": [
+      {
+        "j": "kaca kecil",
+        "p": 50
+      },
+      {
+        "j": "kartu",
+        "p": 40
+      },
+      {
+        "j": "hp",
+        "p": 30
+      },
+      {
+        "j": "permen",
+        "p": 20
+      },
+      {
+        "j": "kunci",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang sering dibawa saat jalan-jalan! (5)",
+    "jawaban": [
+      {
+        "j": "buku",
+        "p": 50
+      },
+      {
+        "j": "piring",
+        "p": 40
+      },
+      {
+        "j": "gelas",
+        "p": 30
+      },
+      {
+        "j": "kaos",
+        "p": 20
+      },
+      {
+        "j": "sepatu",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan makanan yang disajikan saat sarapan! (5)",
+    "jawaban": [
+      {
+        "j": "pancake",
+        "p": 50
+      },
+      {
+        "j": "nasi goreng",
+        "p": 40
+      },
+      {
+        "j": "sandwich",
+        "p": 30
+      },
+      {
+        "j": "bubur",
+        "p": 20
+      },
+      {
+        "j": "roti",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan hal yang sering dilakukan sebelum tidur! (5)",
+    "jawaban": [
+      {
+        "j": "bekerja",
+        "p": 50
+      },
+      {
+        "j": "main hp",
+        "p": 40
+      },
+      {
+        "j": "bermain",
+        "p": 30
+      },
+      {
+        "j": "ngobrol",
+        "p": 20
+      },
+      {
+        "j": "makan",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan permainan tradisional! (5)",
+    "jawaban": [
+      {
+        "j": "gundu",
+        "p": 50
+      },
+      {
+        "j": "egrang",
+        "p": 40
+      },
+      {
+        "j": "kelereng",
+        "p": 30
+      },
+      {
+        "j": "bakiak",
+        "p": 20
+      },
+      {
+        "j": "petak umpet",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang ada di dapur! (5)",
+    "jawaban": [
+      {
+        "j": "selimut",
+        "p": 50
+      },
+      {
+        "j": "remote",
+        "p": 40
+      },
+      {
+        "j": "piring",
+        "p": 30
+      },
+      {
+        "j": "buku",
+        "p": 20
+      },
+      {
+        "j": "pulpen",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan hewan yang hidup di air! (5)",
+    "jawaban": [
+      {
+        "j": "ikan hiu",
+        "p": 50
+      },
+      {
+        "j": "ikan",
+        "p": 40
+      },
+      {
+        "j": "bintang laut",
+        "p": 30
+      },
+      {
+        "j": "lobster",
+        "p": 20
+      },
+      {
+        "j": "gurita",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan merek minuman bersoda! (5)",
+    "jawaban": [
+      {
+        "j": "rc cola",
+        "p": 50
+      },
+      {
+        "j": "coca cola",
+        "p": 40
+      },
+      {
+        "j": "sprite",
+        "p": 30
+      },
+      {
+        "j": "pepsi max",
+        "p": 20
+      },
+      {
+        "j": "7up",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan pekerjaan yang berhubungan dengan komputer! (5)",
+    "jawaban": [
+      {
+        "j": "tester",
+        "p": 50
+      },
+      {
+        "j": "devops",
+        "p": 40
+      },
+      {
+        "j": "programmer",
+        "p": 30
+      },
+      {
+        "j": "mobile developer",
+        "p": 20
+      },
+      {
+        "j": "it support",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang menggunakan listrik! (5)",
+    "jawaban": [
+      {
+        "j": "charger",
+        "p": 50
+      },
+      {
+        "j": "kulkas",
+        "p": 40
+      },
+      {
+        "j": "microwave",
+        "p": 30
+      },
+      {
+        "j": "komputer",
+        "p": 20
+      },
+      {
+        "j": "setrika",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan tempat yang sering dijadikan lokasi foto prewedding! (5)",
+    "jawaban": [
+      {
+        "j": "taman",
+        "p": 50
+      },
+      {
+        "j": "kebun",
+        "p": 40
+      },
+      {
+        "j": "kafe estetis",
+        "p": 30
+      },
+      {
+        "j": "balai kota",
+        "p": 20
+      },
+      {
+        "j": "gedung tua",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan hewan yang biasa dipelihara di rumah! (7)",
+    "jawaban": [
+      {
+        "j": "katak",
+        "p": 50
+      },
+      {
+        "j": "singa",
+        "p": 40
+      },
+      {
+        "j": "kucing",
+        "p": 30
+      },
+      {
+        "j": "anjing",
+        "p": 20
+      },
+      {
+        "j": "kambing",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang ada di kamar tidur! (7)",
+    "jawaban": [
+      {
+        "j": "piring",
+        "p": 50
+      },
+      {
+        "j": "charger",
+        "p": 40
+      },
+      {
+        "j": "kompor",
+        "p": 30
+      },
+      {
+        "j": "bantal",
+        "p": 20
+      },
+      {
+        "j": "pulpen",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Hal yang orang lakukan saat bangun tidur! (7)",
+    "jawaban": [
+      {
+        "j": "jalan-jalan",
+        "p": 50
+      },
+      {
+        "j": "bersepeda",
+        "p": 40
+      },
+      {
+        "j": "berdoa",
+        "p": 30
+      },
+      {
+        "j": "memasak",
+        "p": 20
+      },
+      {
+        "j": "ngobrol",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan minuman yang disajikan dingin! (6)",
+    "jawaban": [
+      {
+        "j": "susu",
+        "p": 50
+      },
+      {
+        "j": "es kelapa",
+        "p": 40
+      },
+      {
+        "j": "jus alpukat",
+        "p": 30
+      },
+      {
+        "j": "jus mangga",
+        "p": 20
+      },
+      {
+        "j": "es kopi susu",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan makanan khas Indonesia! (6)",
+    "jawaban": [
+      {
+        "j": "tempe goreng",
+        "p": 50
+      },
+      {
+        "j": "roti",
+        "p": 40
+      },
+      {
+        "j": "nasi goreng",
+        "p": 30
+      },
+      {
+        "j": "rendang",
+        "p": 20
+      },
+      {
+        "j": "nasi uduk",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan tempat favorit untuk liburan keluarga! (6)",
+    "jawaban": [
+      {
+        "j": "perpustakaan",
+        "p": 50
+      },
+      {
+        "j": "stasiun",
+        "p": 40
+      },
+      {
+        "j": "pantai",
+        "p": 30
+      },
+      {
+        "j": "universitas",
+        "p": 20
+      },
+      {
+        "j": "masjid",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan alat makan! (6)",
+    "jawaban": [
+      {
+        "j": "gelas",
+        "p": 50
+      },
+      {
+        "j": "garpu",
+        "p": 40
+      },
+      {
+        "j": "piring saji",
+        "p": 30
+      },
+      {
+        "j": "sendok",
+        "p": 20
+      },
+      {
+        "j": "mangkok",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan buah berwarna kuning! (6)",
+    "jawaban": [
+      {
+        "j": "srikaya",
+        "p": 50
+      },
+      {
+        "j": "mangga",
+        "p": 40
+      },
+      {
+        "j": "nanas",
+        "p": 30
+      },
+      {
+        "j": "pisang mas",
+        "p": 20
+      },
+      {
+        "j": "lemon",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan jenis transportasi umum! (6)",
+    "jawaban": [
+      {
+        "j": "kereta",
+        "p": 50
+      },
+      {
+        "j": "truck",
+        "p": 40
+      },
+      {
+        "j": "becak",
+        "p": 30
+      },
+      {
+        "j": "kuda",
+        "p": 20
+      },
+      {
+        "j": "minibus",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan pekerjaan yang sering dilakukan di dapur! (6)",
+    "jawaban": [
+      {
+        "j": "menyusun",
+        "p": 50
+      },
+      {
+        "j": "memanggang",
+        "p": 40
+      },
+      {
+        "j": "memasak",
+        "p": 30
+      },
+      {
+        "j": "memotong",
+        "p": 20
+      },
+      {
+        "j": "merebus",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang sering hilang di rumah! (6)",
+    "jawaban": [
+      {
+        "j": "dompet",
+        "p": 50
+      },
+      {
+        "j": "remote",
+        "p": 40
+      },
+      {
+        "j": "stiker",
+        "p": 30
+      },
+      {
+        "j": "topi",
+        "p": 20
+      },
+      {
+        "j": "kacamata",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan merek mie instan terkenal! (6)",
+    "jawaban": [
+      {
+        "j": "mie sedap goreng",
+        "p": 50
+      },
+      {
+        "j": "kobe",
+        "p": 40
+      },
+      {
+        "j": "indomie",
+        "p": 30
+      },
+      {
+        "j": "sarimi",
+        "p": 20
+      },
+      {
+        "j": "mie sedap",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan warna dasar! (6)",
+    "jawaban": [
+      {
+        "j": "navy",
+        "p": 50
+      },
+      {
+        "j": "kuning",
+        "p": 40
+      },
+      {
+        "j": "pink",
+        "p": 30
+      },
+      {
+        "j": "beige",
+        "p": 20
+      },
+      {
+        "j": "emas",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan kegiatan di pantai! (6)",
+    "jawaban": [
+      {
+        "j": "foto-foto",
+        "p": 50
+      },
+      {
+        "j": "jalan-jalan",
+        "p": 40
+      },
+      {
+        "j": "berselancar",
+        "p": 30
+      },
+      {
+        "j": "voli pantai",
+        "p": 20
+      },
+      {
+        "j": "naik perahu",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang digunakan untuk menulis! (6)",
+    "jawaban": [
+      {
+        "j": "marker",
+        "p": 50
+      },
+      {
+        "j": "pensil",
+        "p": 40
+      },
+      {
+        "j": "pulpen",
+        "p": 30
+      },
+      {
+        "j": "pena",
+        "p": 20
+      },
+      {
+        "j": "crayon",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan pekerjaan yang bertugas di rumah sakit! (6)",
+    "jawaban": [
+      {
+        "j": "supir",
+        "p": 50
+      },
+      {
+        "j": "petani",
+        "p": 40
+      },
+      {
+        "j": "montir",
+        "p": 30
+      },
+      {
+        "j": "desainer",
+        "p": 20
+      },
+      {
+        "j": "masinis",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan sayuran yang sering dibuat sup! (6)",
+    "jawaban": [
+      {
+        "j": "bawang",
+        "p": 50
+      },
+      {
+        "j": "terong",
+        "p": 40
+      },
+      {
+        "j": "kacang panjang",
+        "p": 30
+      },
+      {
+        "j": "timun",
+        "p": 20
+      },
+      {
+        "j": "sawi",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan makanan yang digoreng! (6)",
+    "jawaban": [
+      {
+        "j": "bakwan",
+        "p": 50
+      },
+      {
+        "j": "cireng",
+        "p": 40
+      },
+      {
+        "j": "tempe goreng",
+        "p": 30
+      },
+      {
+        "j": "gorengan",
+        "p": 20
+      },
+      {
+        "j": "ayam goreng",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan jenis kue! (6)",
+    "jawaban": [
+      {
+        "j": "onde-onde",
+        "p": 50
+      },
+      {
+        "j": "brownies",
+        "p": 40
+      },
+      {
+        "j": "kue bolu",
+        "p": 30
+      },
+      {
+        "j": "nastar",
+        "p": 20
+      },
+      {
+        "j": "kue lapis",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang ada di tas wanita! (6)",
+    "jawaban": [
+      {
+        "j": "permen",
+        "p": 50
+      },
+      {
+        "j": "tisu",
+        "p": 40
+      },
+      {
+        "j": "lipstik",
+        "p": 30
+      },
+      {
+        "j": "dompet",
+        "p": 20
+      },
+      {
+        "j": "kaca kecil",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang sering dibawa saat jalan-jalan! (6)",
+    "jawaban": [
+      {
+        "j": "bantal",
+        "p": 50
+      },
+      {
+        "j": "handuk",
+        "p": 40
+      },
+      {
+        "j": "kunci",
+        "p": 30
+      },
+      {
+        "j": "buku",
+        "p": 20
+      },
+      {
+        "j": "telepon",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan makanan yang disajikan saat sarapan! (6)",
+    "jawaban": [
+      {
+        "j": "telur",
+        "p": 50
+      },
+      {
+        "j": "kue",
+        "p": 40
+      },
+      {
+        "j": "bubur",
+        "p": 30
+      },
+      {
+        "j": "sandwich",
+        "p": 20
+      },
+      {
+        "j": "pancake",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan hal yang sering dilakukan sebelum tidur! (6)",
+    "jawaban": [
+      {
+        "j": "berkebun",
+        "p": 50
+      },
+      {
+        "j": "berenang",
+        "p": 40
+      },
+      {
+        "j": "menyapu",
+        "p": 30
+      },
+      {
+        "j": "belajar",
+        "p": 20
+      },
+      {
+        "j": "mengepel",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan permainan tradisional! (6)",
+    "jawaban": [
+      {
+        "j": "kelereng",
+        "p": 50
+      },
+      {
+        "j": "congklak",
+        "p": 40
+      },
+      {
+        "j": "layangan",
+        "p": 30
+      },
+      {
+        "j": "bakiak",
+        "p": 20
+      },
+      {
+        "j": "enggrang",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang ada di dapur! (6)",
+    "jawaban": [
+      {
+        "j": "piring",
+        "p": 50
+      },
+      {
+        "j": "sepatu",
+        "p": 40
+      },
+      {
+        "j": "charger",
+        "p": 30
+      },
+      {
+        "j": "handuk",
+        "p": 20
+      },
+      {
+        "j": "kunci",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan hewan yang hidup di air! (6)",
+    "jawaban": [
+      {
+        "j": "bintang laut",
+        "p": 50
+      },
+      {
+        "j": "ikan hiu",
+        "p": 40
+      },
+      {
+        "j": "ubur-ubur",
+        "p": 30
+      },
+      {
+        "j": "kerang",
+        "p": 20
+      },
+      {
+        "j": "ikan paus",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan merek minuman bersoda! (6)",
+    "jawaban": [
+      {
+        "j": "rc cola",
+        "p": 50
+      },
+      {
+        "j": "schweppes",
+        "p": 40
+      },
+      {
+        "j": "pepsi",
+        "p": 30
+      },
+      {
+        "j": "coca cola",
+        "p": 20
+      },
+      {
+        "j": "7up",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan pekerjaan yang berhubungan dengan komputer! (6)",
+    "jawaban": [
+      {
+        "j": "desainer",
+        "p": 50
+      },
+      {
+        "j": "devops",
+        "p": 40
+      },
+      {
+        "j": "it support",
+        "p": 30
+      },
+      {
+        "j": "data analyst",
+        "p": 20
+      },
+      {
+        "j": "admin",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang menggunakan listrik! (6)",
+    "jawaban": [
+      {
+        "j": "lampu",
+        "p": 50
+      },
+      {
+        "j": "radio",
+        "p": 40
+      },
+      {
+        "j": "AC",
+        "p": 30
+      },
+      {
+        "j": "kulkas",
+        "p": 20
+      },
+      {
+        "j": "kipas",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan tempat yang sering dijadikan lokasi foto prewedding! (6)",
+    "jawaban": [
+      {
+        "j": "balai kota",
+        "p": 50
+      },
+      {
+        "j": "studio",
+        "p": 40
+      },
+      {
+        "j": "kolam",
+        "p": 30
+      },
+      {
+        "j": "kawasan kota tua",
+        "p": 20
+      },
+      {
+        "j": "gunung",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan hewan yang biasa dipelihara di rumah! (8)",
+    "jawaban": [
+      {
+        "j": "domba",
+        "p": 50
+      },
+      {
+        "j": "gajah",
+        "p": 40
+      },
+      {
+        "j": "kambing",
+        "p": 30
+      },
+      {
+        "j": "ikan",
+        "p": 20
+      },
+      {
+        "j": "udang",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang ada di kamar tidur! (8)",
+    "jawaban": [
+      {
+        "j": "buku",
+        "p": 50
+      },
+      {
+        "j": "sepatu",
+        "p": 40
+      },
+      {
+        "j": "kaos",
+        "p": 30
+      },
+      {
+        "j": "charger",
+        "p": 20
+      },
+      {
+        "j": "telepon",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Hal yang orang lakukan saat bangun tidur! (8)",
+    "jawaban": [
+      {
+        "j": "tidur",
+        "p": 50
+      },
+      {
+        "j": "mengepel",
+        "p": 40
+      },
+      {
+        "j": "berlari",
+        "p": 30
+      },
+      {
+        "j": "makan",
+        "p": 20
+      },
+      {
+        "j": "belajar",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan minuman yang disajikan dingin! (7)",
+    "jawaban": [
+      {
+        "j": "kopi",
+        "p": 50
+      },
+      {
+        "j": "jus jeruk",
+        "p": 40
+      },
+      {
+        "j": "minuman bersoda",
+        "p": 30
+      },
+      {
+        "j": "air putih",
+        "p": 20
+      },
+      {
+        "j": "sirup",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan makanan khas Indonesia! (7)",
+    "jawaban": [
+      {
+        "j": "rendang",
+        "p": 50
+      },
+      {
+        "j": "es campur",
+        "p": 40
+      },
+      {
+        "j": "nasi goreng",
+        "p": 30
+      },
+      {
+        "j": "rawon",
+        "p": 20
+      },
+      {
+        "j": "tahu goreng",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan tempat favorit untuk liburan keluarga! (7)",
+    "jawaban": [
+      {
+        "j": "mall",
+        "p": 50
+      },
+      {
+        "j": "perpustakaan",
+        "p": 40
+      },
+      {
+        "j": "museum",
+        "p": 30
+      },
+      {
+        "j": "pantai",
+        "p": 20
+      },
+      {
+        "j": "taman",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan alat makan! (7)",
+    "jawaban": [
+      {
+        "j": "mangkok",
+        "p": 50
+      },
+      {
+        "j": "nampan",
+        "p": 40
+      },
+      {
+        "j": "cangkir",
+        "p": 30
+      },
+      {
+        "j": "piring saji",
+        "p": 20
+      },
+      {
+        "j": "garpu",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan buah berwarna kuning! (7)",
+    "jawaban": [
+      {
+        "j": "pepaya kuning",
+        "p": 50
+      },
+      {
+        "j": "pepaya",
+        "p": 40
+      },
+      {
+        "j": "pisang mas",
+        "p": 30
+      },
+      {
+        "j": "pisang",
+        "p": 20
+      },
+      {
+        "j": "mangga",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan jenis transportasi umum! (7)",
+    "jawaban": [
+      {
+        "j": "kuda",
+        "p": 50
+      },
+      {
+        "j": "tram",
+        "p": 40
+      },
+      {
+        "j": "van",
+        "p": 30
+      },
+      {
+        "j": "truck",
+        "p": 20
+      },
+      {
+        "j": "pesawat",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan pekerjaan yang sering dilakukan di dapur! (7)",
+    "jawaban": [
+      {
+        "j": "memasak",
+        "p": 50
+      },
+      {
+        "j": "menyusun",
+        "p": 40
+      },
+      {
+        "j": "mengupas",
+        "p": 30
+      },
+      {
+        "j": "memanggang",
+        "p": 20
+      },
+      {
+        "j": "mencuci piring",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang sering hilang di rumah! (7)",
+    "jawaban": [
+      {
+        "j": "stiker",
+        "p": 50
+      },
+      {
+        "j": "remote",
+        "p": 40
+      },
+      {
+        "j": "kaos kaki",
+        "p": 30
+      },
+      {
+        "j": "topi",
+        "p": 20
+      },
+      {
+        "j": "earphone",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan merek mie instan terkenal! (7)",
+    "jawaban": [
+      {
+        "j": "kobe",
+        "p": 50
+      },
+      {
+        "j": "mie sedap goreng",
+        "p": 40
+      },
+      {
+        "j": "mie sedap",
+        "p": 30
+      },
+      {
+        "j": "pop mie",
+        "p": 20
+      },
+      {
+        "j": "indomie",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan warna dasar! (7)",
+    "jawaban": [
+      {
+        "j": "putih",
+        "p": 50
+      },
+      {
+        "j": "beige",
+        "p": 40
+      },
+      {
+        "j": "oren",
+        "p": 30
+      },
+      {
+        "j": "pink",
+        "p": 20
+      },
+      {
+        "j": "hijau",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan kegiatan di pantai! (7)",
+    "jawaban": [
+      {
+        "j": "voli pantai",
+        "p": 50
+      },
+      {
+        "j": "piknik",
+        "p": 40
+      },
+      {
+        "j": "foto-foto",
+        "p": 30
+      },
+      {
+        "j": "berenang",
+        "p": 20
+      },
+      {
+        "j": "berselancar",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan benda yang digunakan untuk menulis! (7)",
+    "jawaban": [
+      {
+        "j": "marker",
+        "p": 50
+      },
+      {
+        "j": "kertas",
+        "p": 40
+      },
+      {
+        "j": "stapler",
+        "p": 30
+      },
+      {
+        "j": "crayon",
+        "p": 20
+      },
+      {
+        "j": "notebook",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan pekerjaan yang bertugas di rumah sakit! (7)",
+    "jawaban": [
+      {
+        "j": "dokter",
+        "p": 50
+      },
+      {
+        "j": "masinis",
+        "p": 40
+      },
+      {
+        "j": "guru",
+        "p": 30
+      },
+      {
+        "j": "barista",
+        "p": 20
+      },
+      {
+        "j": "aktor",
+        "p": 10
+      }
+    ]
+  },
+  {
+    "q": "Sebutkan sayuran yang sering dibuat sup! (7)",
+    "jawaban": [
+      {
+        "j": "seledri",
+        "p": 50
+      },
+      {
+        "j": "buncis",
+        "p": 40
+      },
+      {
+        "j": "bayam",
+        "p": 30
+      },
+      {
+        "j": "bawang",
+        "p": 20
+      },
+      {
+        "j": "kecambah",
+        "p": 10
+      }
+    ]
+  }
+]

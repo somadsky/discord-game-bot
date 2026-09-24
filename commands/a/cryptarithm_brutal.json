@@ -1,0 +1,5002 @@
+[
+  {
+    "q": "Diketahui cryptarithm berikut:\nLB + X = LX\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai L + B + X adalah:",
+    "a": "a",
+    "opts": {
+      "a": "13",
+      "b": "14",
+      "c": "16",
+      "d": "11"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nAD + F = AF\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai A + D + F adalah:",
+    "a": "a",
+    "opts": {
+      "a": "13",
+      "b": "17",
+      "c": "16",
+      "d": "12"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nNP + U = NU\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai N + P + U adalah:",
+    "a": "a",
+    "opts": {
+      "a": "17",
+      "b": "20",
+      "c": "16",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nXF + P = XP\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai X + F + P adalah:",
+    "a": "b",
+    "opts": {
+      "a": "17",
+      "b": "16",
+      "c": "15",
+      "d": "19"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nIO + Q = IQ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai I + O + Q adalah:",
+    "a": "a",
+    "opts": {
+      "a": "22",
+      "b": "21",
+      "c": "20",
+      "d": "25"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nQD + G = QG\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Q + D + G adalah:",
+    "a": "c",
+    "opts": {
+      "a": "18",
+      "b": "17",
+      "c": "15",
+      "d": "12"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nLZ + O = LO\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai L + Z + O adalah:",
+    "a": "c",
+    "opts": {
+      "a": "19",
+      "b": "17",
+      "c": "20",
+      "d": "23"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nIV + T = IT\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai I + V + T adalah:",
+    "a": "d",
+    "opts": {
+      "a": "11",
+      "b": "16",
+      "c": "15",
+      "d": "12"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nNJ + W = NW\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai N + J + W adalah:",
+    "a": "b",
+    "opts": {
+      "a": "10",
+      "b": "9",
+      "c": "11",
+      "d": "8"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nIY + F = IF\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai I + Y + F adalah:",
+    "a": "d",
+    "opts": {
+      "a": "17",
+      "b": "23",
+      "c": "18",
+      "d": "20"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nHO + K = HK\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai H + O + K adalah:",
+    "a": "b",
+    "opts": {
+      "a": "17",
+      "b": "16",
+      "c": "19",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nAB + U = AU\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai A + B + U adalah:",
+    "a": "a",
+    "opts": {
+      "a": "18",
+      "b": "19",
+      "c": "17",
+      "d": "21"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nAL + S = AS\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai A + L + S adalah:",
+    "a": "a",
+    "opts": {
+      "a": "17",
+      "b": "14",
+      "c": "15",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nQD + I = QI\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Q + D + I adalah:",
+    "a": "b",
+    "opts": {
+      "a": "17",
+      "b": "18",
+      "c": "21",
+      "d": "22"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nDO + K = DK\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai D + O + K adalah:",
+    "a": "b",
+    "opts": {
+      "a": "18",
+      "b": "20",
+      "c": "17",
+      "d": "22"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nIC + J = IJ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai I + C + J adalah:",
+    "a": "a",
+    "opts": {
+      "a": "15",
+      "b": "17",
+      "c": "12",
+      "d": "19"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nLO + H = LH\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai L + O + H adalah:",
+    "a": "d",
+    "opts": {
+      "a": "24",
+      "b": "22",
+      "c": "25",
+      "d": "21"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nAM + J = AJ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai A + M + J adalah:",
+    "a": "b",
+    "opts": {
+      "a": "12",
+      "b": "10",
+      "c": "9",
+      "d": "8"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nRN + L = RL\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai R + N + L adalah:",
+    "a": "d",
+    "opts": {
+      "a": "18",
+      "b": "12",
+      "c": "13",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nYK + L = YL\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Y + K + L adalah:",
+    "a": "c",
+    "opts": {
+      "a": "14",
+      "b": "13",
+      "c": "16",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nYC + Z = YZ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Y + C + Z adalah:",
+    "a": "c",
+    "opts": {
+      "a": "18",
+      "b": "11",
+      "c": "14",
+      "d": "13"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nXA + D = XD\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai X + A + D adalah:",
+    "a": "a",
+    "opts": {
+      "a": "19",
+      "b": "22",
+      "c": "23",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nNX + T = NT\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai N + X + T adalah:",
+    "a": "d",
+    "opts": {
+      "a": "15",
+      "b": "12",
+      "c": "11",
+      "d": "13"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nNE + A = NA\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai N + E + A adalah:",
+    "a": "a",
+    "opts": {
+      "a": "11",
+      "b": "8",
+      "c": "13",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nQR + O = QO\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Q + R + O adalah:",
+    "a": "d",
+    "opts": {
+      "a": "11",
+      "b": "13",
+      "c": "18",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nJU + T = JT\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai J + U + T adalah:",
+    "a": "c",
+    "opts": {
+      "a": "20",
+      "b": "22",
+      "c": "18",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nXP + T = XT\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai X + P + T adalah:",
+    "a": "b",
+    "opts": {
+      "a": "11",
+      "b": "12",
+      "c": "9",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nEV + O = EO\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai E + V + O adalah:",
+    "a": "d",
+    "opts": {
+      "a": "11",
+      "b": "4",
+      "c": "10",
+      "d": "7"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nPH + F = PF\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai P + H + F adalah:",
+    "a": "b",
+    "opts": {
+      "a": "7",
+      "b": "10",
+      "c": "12",
+      "d": "11"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nGD + A = GA\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai G + D + A adalah:",
+    "a": "b",
+    "opts": {
+      "a": "20",
+      "b": "18",
+      "c": "16",
+      "d": "22"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nTX + M = TM\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai T + X + M adalah:",
+    "a": "c",
+    "opts": {
+      "a": "14",
+      "b": "18",
+      "c": "15",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nXP + E = XE\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai X + P + E adalah:",
+    "a": "c",
+    "opts": {
+      "a": "15",
+      "b": "16",
+      "c": "17",
+      "d": "21"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nCG + J = CJ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai C + G + J adalah:",
+    "a": "c",
+    "opts": {
+      "a": "16",
+      "b": "15",
+      "c": "17",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nAD + S = AS\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai A + D + S adalah:",
+    "a": "b",
+    "opts": {
+      "a": "14",
+      "b": "12",
+      "c": "15",
+      "d": "13"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nAX + P = AP\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai A + X + P adalah:",
+    "a": "c",
+    "opts": {
+      "a": "21",
+      "b": "18",
+      "c": "19",
+      "d": "23"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nKR + S = KS\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai K + R + S adalah:",
+    "a": "b",
+    "opts": {
+      "a": "17",
+      "b": "18",
+      "c": "22",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nKJ + B = KB\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai K + J + B adalah:",
+    "a": "a",
+    "opts": {
+      "a": "22",
+      "b": "19",
+      "c": "25",
+      "d": "20"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nOV + J = OJ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai O + V + J adalah:",
+    "a": "c",
+    "opts": {
+      "a": "25",
+      "b": "24",
+      "c": "22",
+      "d": "23"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nNE + Z = NZ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai N + E + Z adalah:",
+    "a": "a",
+    "opts": {
+      "a": "11",
+      "b": "10",
+      "c": "14",
+      "d": "13"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nDP + F = DF\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai D + P + F adalah:",
+    "a": "d",
+    "opts": {
+      "a": "19",
+      "b": "17",
+      "c": "12",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nEA + H = EH\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai E + A + H adalah:",
+    "a": "d",
+    "opts": {
+      "a": "16",
+      "b": "14",
+      "c": "15",
+      "d": "12"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nPU + H = PH\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai P + U + H adalah:",
+    "a": "a",
+    "opts": {
+      "a": "9",
+      "b": "6",
+      "c": "8",
+      "d": "10"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nXC + E = XE\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai X + C + E adalah:",
+    "a": "a",
+    "opts": {
+      "a": "10",
+      "b": "12",
+      "c": "8",
+      "d": "13"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nUB + A = UA\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai U + B + A adalah:",
+    "a": "d",
+    "opts": {
+      "a": "10",
+      "b": "12",
+      "c": "16",
+      "d": "13"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nUH + E = UE\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai U + H + E adalah:",
+    "a": "d",
+    "opts": {
+      "a": "19",
+      "b": "16",
+      "c": "15",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nMX + K = MK\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai M + X + K adalah:",
+    "a": "b",
+    "opts": {
+      "a": "18",
+      "b": "17",
+      "c": "16",
+      "d": "19"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nKO + D = KD\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai K + O + D adalah:",
+    "a": "b",
+    "opts": {
+      "a": "14",
+      "b": "12",
+      "c": "16",
+      "d": "9"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nCF + M = CM\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai C + F + M adalah:",
+    "a": "a",
+    "opts": {
+      "a": "13",
+      "b": "11",
+      "c": "16",
+      "d": "10"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nAS + W = AW\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai A + S + W adalah:",
+    "a": "d",
+    "opts": {
+      "a": "12",
+      "b": "14",
+      "c": "8",
+      "d": "10"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nNF + D = ND\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai N + F + D adalah:",
+    "a": "c",
+    "opts": {
+      "a": "8",
+      "b": "7",
+      "c": "6",
+      "d": "4"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nSK + F = SF\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai S + K + F adalah:",
+    "a": "b",
+    "opts": {
+      "a": "16",
+      "b": "18",
+      "c": "15",
+      "d": "22"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nZC + I = ZI\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Z + C + I adalah:",
+    "a": "b",
+    "opts": {
+      "a": "17",
+      "b": "20",
+      "c": "19",
+      "d": "23"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nYG + J = YJ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Y + G + J adalah:",
+    "a": "a",
+    "opts": {
+      "a": "15",
+      "b": "18",
+      "c": "19",
+      "d": "12"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nIV + U = IU\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai I + V + U adalah:",
+    "a": "a",
+    "opts": {
+      "a": "19",
+      "b": "18",
+      "c": "21",
+      "d": "22"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nMP + S = MS\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai M + P + S adalah:",
+    "a": "a",
+    "opts": {
+      "a": "19",
+      "b": "17",
+      "c": "22",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nEQ + O = EO\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai E + Q + O adalah:",
+    "a": "a",
+    "opts": {
+      "a": "14",
+      "b": "17",
+      "c": "13",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nYD + F = YF\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Y + D + F adalah:",
+    "a": "c",
+    "opts": {
+      "a": "20",
+      "b": "16",
+      "c": "18",
+      "d": "22"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nOC + R = OR\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai O + C + R adalah:",
+    "a": "d",
+    "opts": {
+      "a": "19",
+      "b": "16",
+      "c": "22",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nPO + T = PT\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai P + O + T adalah:",
+    "a": "c",
+    "opts": {
+      "a": "10",
+      "b": "9",
+      "c": "11",
+      "d": "8"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nMJ + Q = MQ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai M + J + Q adalah:",
+    "a": "c",
+    "opts": {
+      "a": "16",
+      "b": "19",
+      "c": "18",
+      "d": "21"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nPO + Q = PQ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai P + O + Q adalah:",
+    "a": "a",
+    "opts": {
+      "a": "14",
+      "b": "17",
+      "c": "12",
+      "d": "11"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nDF + A = DA\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai D + F + A adalah:",
+    "a": "b",
+    "opts": {
+      "a": "16",
+      "b": "18",
+      "c": "20",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nJE + B = JB\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai J + E + B adalah:",
+    "a": "d",
+    "opts": {
+      "a": "14",
+      "b": "15",
+      "c": "19",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nVS + W = VW\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai V + S + W adalah:",
+    "a": "b",
+    "opts": {
+      "a": "14",
+      "b": "10",
+      "c": "11",
+      "d": "8"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nWO + D = WD\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai W + O + D adalah:",
+    "a": "c",
+    "opts": {
+      "a": "19",
+      "b": "21",
+      "c": "18",
+      "d": "22"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nBR + J = BJ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai B + R + J adalah:",
+    "a": "b",
+    "opts": {
+      "a": "13",
+      "b": "12",
+      "c": "16",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nLY + T = LT\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai L + Y + T adalah:",
+    "a": "d",
+    "opts": {
+      "a": "13",
+      "b": "19",
+      "c": "20",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nWL + N = WN\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai W + L + N adalah:",
+    "a": "a",
+    "opts": {
+      "a": "17",
+      "b": "18",
+      "c": "16",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nSF + O = SO\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai S + F + O adalah:",
+    "a": "d",
+    "opts": {
+      "a": "22",
+      "b": "20",
+      "c": "17",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nHE + Z = HZ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai H + E + Z adalah:",
+    "a": "d",
+    "opts": {
+      "a": "11",
+      "b": "12",
+      "c": "17",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nDB + J = DJ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai D + B + J adalah:",
+    "a": "d",
+    "opts": {
+      "a": "17",
+      "b": "22",
+      "c": "16",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nAS + I = AI\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai A + S + I adalah:",
+    "a": "d",
+    "opts": {
+      "a": "18",
+      "b": "12",
+      "c": "13",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nLV + Q = LQ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai L + V + Q adalah:",
+    "a": "b",
+    "opts": {
+      "a": "12",
+      "b": "9",
+      "c": "10",
+      "d": "6"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nZD + I = ZI\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Z + D + I adalah:",
+    "a": "d",
+    "opts": {
+      "a": "22",
+      "b": "23",
+      "c": "21",
+      "d": "19"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nWL + Y = WY\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai W + L + Y adalah:",
+    "a": "d",
+    "opts": {
+      "a": "14",
+      "b": "12",
+      "c": "18",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nHI + F = HF\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai H + I + F adalah:",
+    "a": "c",
+    "opts": {
+      "a": "14",
+      "b": "13",
+      "c": "16",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nWH + D = WD\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai W + H + D adalah:",
+    "a": "a",
+    "opts": {
+      "a": "17",
+      "b": "14",
+      "c": "15",
+      "d": "19"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nPL + W = PW\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai P + L + W adalah:",
+    "a": "b",
+    "opts": {
+      "a": "4",
+      "b": "6",
+      "c": "10",
+      "d": "9"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nPJ + U = PU\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai P + J + U adalah:",
+    "a": "d",
+    "opts": {
+      "a": "17",
+      "b": "18",
+      "c": "19",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nFO + Y = FY\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai F + O + Y adalah:",
+    "a": "b",
+    "opts": {
+      "a": "11",
+      "b": "13",
+      "c": "17",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nBD + X = BX\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai B + D + X adalah:",
+    "a": "c",
+    "opts": {
+      "a": "8",
+      "b": "9",
+      "c": "10",
+      "d": "12"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nQS + E = QE\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Q + S + E adalah:",
+    "a": "c",
+    "opts": {
+      "a": "20",
+      "b": "17",
+      "c": "16",
+      "d": "19"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nUL + F = UF\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai U + L + F adalah:",
+    "a": "b",
+    "opts": {
+      "a": "14",
+      "b": "15",
+      "c": "13",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nHD + K = HK\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai H + D + K adalah:",
+    "a": "b",
+    "opts": {
+      "a": "15",
+      "b": "17",
+      "c": "18",
+      "d": "20"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nVL + R = VR\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai V + L + R adalah:",
+    "a": "a",
+    "opts": {
+      "a": "20",
+      "b": "23",
+      "c": "21",
+      "d": "22"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nAS + U = AU\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai A + S + U adalah:",
+    "a": "a",
+    "opts": {
+      "a": "12",
+      "b": "15",
+      "c": "11",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nAR + W = AW\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai A + R + W adalah:",
+    "a": "b",
+    "opts": {
+      "a": "19",
+      "b": "18",
+      "c": "17",
+      "d": "21"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nSU + P = SP\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai S + U + P adalah:",
+    "a": "b",
+    "opts": {
+      "a": "11",
+      "b": "13",
+      "c": "10",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nKM + W = KW\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai K + M + W adalah:",
+    "a": "d",
+    "opts": {
+      "a": "12",
+      "b": "13",
+      "c": "17",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nDE + G = DG\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai D + E + G adalah:",
+    "a": "d",
+    "opts": {
+      "a": "21",
+      "b": "22",
+      "c": "18",
+      "d": "19"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nUF + K = UK\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai U + F + K adalah:",
+    "a": "b",
+    "opts": {
+      "a": "14",
+      "b": "17",
+      "c": "19",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nBN + A = BA\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai B + N + A adalah:",
+    "a": "d",
+    "opts": {
+      "a": "16",
+      "b": "17",
+      "c": "12",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nTB + A = TA\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai T + B + A adalah:",
+    "a": "c",
+    "opts": {
+      "a": "19",
+      "b": "14",
+      "c": "16",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nNU + F = NF\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai N + U + F adalah:",
+    "a": "b",
+    "opts": {
+      "a": "21",
+      "b": "19",
+      "c": "18",
+      "d": "20"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nPH + V = PV\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai P + H + V adalah:",
+    "a": "a",
+    "opts": {
+      "a": "11",
+      "b": "13",
+      "c": "14",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nXT + W = XW\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai X + T + W adalah:",
+    "a": "b",
+    "opts": {
+      "a": "19",
+      "b": "17",
+      "c": "21",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nXK + E = XE\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai X + K + E adalah:",
+    "a": "b",
+    "opts": {
+      "a": "16",
+      "b": "14",
+      "c": "11",
+      "d": "13"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nXJ + Q = XQ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai X + J + Q adalah:",
+    "a": "c",
+    "opts": {
+      "a": "13",
+      "b": "12",
+      "c": "11",
+      "d": "10"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nUB + A = UA\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai U + B + A adalah:",
+    "a": "d",
+    "opts": {
+      "a": "20",
+      "b": "17",
+      "c": "16",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nFD + S = FS\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai F + D + S adalah:",
+    "a": "c",
+    "opts": {
+      "a": "20",
+      "b": "25",
+      "c": "22",
+      "d": "23"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nJF + T = JT\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai J + F + T adalah:",
+    "a": "a",
+    "opts": {
+      "a": "7",
+      "b": "5",
+      "c": "10",
+      "d": "8"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nEQ + X = EX\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai E + Q + X adalah:",
+    "a": "a",
+    "opts": {
+      "a": "21",
+      "b": "24",
+      "c": "18",
+      "d": "25"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nBT + U = BU\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai B + T + U adalah:",
+    "a": "d",
+    "opts": {
+      "a": "14",
+      "b": "19",
+      "c": "18",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nHR + C = HC\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai H + R + C adalah:",
+    "a": "c",
+    "opts": {
+      "a": "24",
+      "b": "22",
+      "c": "23",
+      "d": "27"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nKC + B = KB\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai K + C + B adalah:",
+    "a": "b",
+    "opts": {
+      "a": "17",
+      "b": "19",
+      "c": "16",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nQC + P = QP\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Q + C + P adalah:",
+    "a": "a",
+    "opts": {
+      "a": "18",
+      "b": "19",
+      "c": "15",
+      "d": "21"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nFP + D = FD\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai F + P + D adalah:",
+    "a": "a",
+    "opts": {
+      "a": "11",
+      "b": "10",
+      "c": "13",
+      "d": "9"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nFR + H = FH\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai F + R + H adalah:",
+    "a": "b",
+    "opts": {
+      "a": "7",
+      "b": "9",
+      "c": "11",
+      "d": "6"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nLM + U = LU\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai L + M + U adalah:",
+    "a": "c",
+    "opts": {
+      "a": "15",
+      "b": "16",
+      "c": "14",
+      "d": "13"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nLG + M = LM\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai L + G + M adalah:",
+    "a": "b",
+    "opts": {
+      "a": "11",
+      "b": "12",
+      "c": "9",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nBI + Z = BZ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai B + I + Z adalah:",
+    "a": "a",
+    "opts": {
+      "a": "12",
+      "b": "10",
+      "c": "15",
+      "d": "9"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nJQ + T = JT\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai J + Q + T adalah:",
+    "a": "d",
+    "opts": {
+      "a": "9",
+      "b": "16",
+      "c": "11",
+      "d": "12"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nOA + Z = OZ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai O + A + Z adalah:",
+    "a": "d",
+    "opts": {
+      "a": "14",
+      "b": "19",
+      "c": "20",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nAO + Y = AY\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai A + O + Y adalah:",
+    "a": "a",
+    "opts": {
+      "a": "20",
+      "b": "22",
+      "c": "23",
+      "d": "19"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nMD + O = MO\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai M + D + O adalah:",
+    "a": "a",
+    "opts": {
+      "a": "9",
+      "b": "6",
+      "c": "10",
+      "d": "8"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nVX + B = VB\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai V + X + B adalah:",
+    "a": "c",
+    "opts": {
+      "a": "11",
+      "b": "18",
+      "c": "14",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nLC + I = LI\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai L + C + I adalah:",
+    "a": "b",
+    "opts": {
+      "a": "23",
+      "b": "20",
+      "c": "21",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nYK + L = YL\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Y + K + L adalah:",
+    "a": "a",
+    "opts": {
+      "a": "16",
+      "b": "19",
+      "c": "14",
+      "d": "13"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nRI + A = RA\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai R + I + A adalah:",
+    "a": "a",
+    "opts": {
+      "a": "17",
+      "b": "15",
+      "c": "19",
+      "d": "20"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nMS + Y = MY\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai M + S + Y adalah:",
+    "a": "c",
+    "opts": {
+      "a": "11",
+      "b": "13",
+      "c": "12",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nHC + Z = HZ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai H + C + Z adalah:",
+    "a": "c",
+    "opts": {
+      "a": "13",
+      "b": "10",
+      "c": "9",
+      "d": "11"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nMB + K = MK\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai M + B + K adalah:",
+    "a": "c",
+    "opts": {
+      "a": "14",
+      "b": "15",
+      "c": "17",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nBM + G = BG\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai B + M + G adalah:",
+    "a": "c",
+    "opts": {
+      "a": "17",
+      "b": "12",
+      "c": "14",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nBN + P = BP\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai B + N + P adalah:",
+    "a": "d",
+    "opts": {
+      "a": "8",
+      "b": "6",
+      "c": "10",
+      "d": "9"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nTM + A = TA\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai T + M + A adalah:",
+    "a": "d",
+    "opts": {
+      "a": "15",
+      "b": "19",
+      "c": "16",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nQM + Z = QZ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Q + M + Z adalah:",
+    "a": "c",
+    "opts": {
+      "a": "18",
+      "b": "19",
+      "c": "17",
+      "d": "20"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nWM + K = WK\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai W + M + K adalah:",
+    "a": "d",
+    "opts": {
+      "a": "24",
+      "b": "25",
+      "c": "19",
+      "d": "21"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nIX + D = ID\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai I + X + D adalah:",
+    "a": "c",
+    "opts": {
+      "a": "17",
+      "b": "18",
+      "c": "15",
+      "d": "12"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nDO + J = DJ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai D + O + J adalah:",
+    "a": "b",
+    "opts": {
+      "a": "18",
+      "b": "21",
+      "c": "24",
+      "d": "22"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nGJ + C = GC\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai G + J + C adalah:",
+    "a": "b",
+    "opts": {
+      "a": "18",
+      "b": "20",
+      "c": "17",
+      "d": "24"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nZG + N = ZN\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Z + G + N adalah:",
+    "a": "b",
+    "opts": {
+      "a": "16",
+      "b": "14",
+      "c": "11",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nGJ + P = GP\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai G + J + P adalah:",
+    "a": "d",
+    "opts": {
+      "a": "11",
+      "b": "16",
+      "c": "17",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nGE + N = GN\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai G + E + N adalah:",
+    "a": "d",
+    "opts": {
+      "a": "24",
+      "b": "23",
+      "c": "19",
+      "d": "21"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nRP + U = RU\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai R + P + U adalah:",
+    "a": "a",
+    "opts": {
+      "a": "15",
+      "b": "13",
+      "c": "14",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nNJ + C = NC\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai N + J + C adalah:",
+    "a": "a",
+    "opts": {
+      "a": "16",
+      "b": "14",
+      "c": "20",
+      "d": "19"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nTF + I = TI\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai T + F + I adalah:",
+    "a": "a",
+    "opts": {
+      "a": "18",
+      "b": "20",
+      "c": "19",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nSQ + C = SC\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai S + Q + C adalah:",
+    "a": "d",
+    "opts": {
+      "a": "14",
+      "b": "15",
+      "c": "16",
+      "d": "12"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nJZ + D = JD\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai J + Z + D adalah:",
+    "a": "a",
+    "opts": {
+      "a": "15",
+      "b": "13",
+      "c": "17",
+      "d": "12"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nLY + D = LD\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai L + Y + D adalah:",
+    "a": "d",
+    "opts": {
+      "a": "15",
+      "b": "10",
+      "c": "14",
+      "d": "11"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nPY + X = PX\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai P + Y + X adalah:",
+    "a": "a",
+    "opts": {
+      "a": "16",
+      "b": "20",
+      "c": "19",
+      "d": "13"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nEG + J = EJ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai E + G + J adalah:",
+    "a": "a",
+    "opts": {
+      "a": "13",
+      "b": "17",
+      "c": "15",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nBJ + Y = BY\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai B + J + Y adalah:",
+    "a": "a",
+    "opts": {
+      "a": "13",
+      "b": "11",
+      "c": "10",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nGF + S = GS\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai G + F + S adalah:",
+    "a": "c",
+    "opts": {
+      "a": "10",
+      "b": "16",
+      "c": "13",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nEB + Z = EZ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai E + B + Z adalah:",
+    "a": "d",
+    "opts": {
+      "a": "26",
+      "b": "23",
+      "c": "21",
+      "d": "22"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nIF + V = IV\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai I + F + V adalah:",
+    "a": "c",
+    "opts": {
+      "a": "8",
+      "b": "13",
+      "c": "11",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nNX + Y = NY\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai N + X + Y adalah:",
+    "a": "c",
+    "opts": {
+      "a": "17",
+      "b": "23",
+      "c": "19",
+      "d": "20"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nIX + O = IO\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai I + X + O adalah:",
+    "a": "b",
+    "opts": {
+      "a": "20",
+      "b": "17",
+      "c": "19",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nDS + A = DA\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai D + S + A adalah:",
+    "a": "d",
+    "opts": {
+      "a": "12",
+      "b": "9",
+      "c": "11",
+      "d": "8"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nDJ + V = DV\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai D + J + V adalah:",
+    "a": "a",
+    "opts": {
+      "a": "9",
+      "b": "11",
+      "c": "8",
+      "d": "7"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nHA + P = HP\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai H + A + P adalah:",
+    "a": "a",
+    "opts": {
+      "a": "14",
+      "b": "18",
+      "c": "15",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nKM + H = KH\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai K + M + H adalah:",
+    "a": "a",
+    "opts": {
+      "a": "12",
+      "b": "9",
+      "c": "15",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nET + C = EC\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai E + T + C adalah:",
+    "a": "d",
+    "opts": {
+      "a": "15",
+      "b": "14",
+      "c": "19",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nCQ + Z = CZ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai C + Q + Z adalah:",
+    "a": "b",
+    "opts": {
+      "a": "23",
+      "b": "19",
+      "c": "17",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nMK + J = MJ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai M + K + J adalah:",
+    "a": "c",
+    "opts": {
+      "a": "15",
+      "b": "14",
+      "c": "13",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nZN + T = ZT\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Z + N + T adalah:",
+    "a": "b",
+    "opts": {
+      "a": "11",
+      "b": "8",
+      "c": "6",
+      "d": "9"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nMQ + H = MH\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai M + Q + H adalah:",
+    "a": "b",
+    "opts": {
+      "a": "16",
+      "b": "17",
+      "c": "21",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nFA + L = FL\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai F + A + L adalah:",
+    "a": "a",
+    "opts": {
+      "a": "17",
+      "b": "18",
+      "c": "19",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nCA + D = CD\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai C + A + D adalah:",
+    "a": "b",
+    "opts": {
+      "a": "11",
+      "b": "13",
+      "c": "12",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nYT + J = YJ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Y + T + J adalah:",
+    "a": "d",
+    "opts": {
+      "a": "15",
+      "b": "11",
+      "c": "9",
+      "d": "12"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nEG + M = EM\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai E + G + M adalah:",
+    "a": "c",
+    "opts": {
+      "a": "22",
+      "b": "21",
+      "c": "20",
+      "d": "19"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nGM + W = GW\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai G + M + W adalah:",
+    "a": "b",
+    "opts": {
+      "a": "15",
+      "b": "17",
+      "c": "19",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nSJ + D = SD\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai S + J + D adalah:",
+    "a": "d",
+    "opts": {
+      "a": "17",
+      "b": "15",
+      "c": "20",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nJL + K = JK\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai J + L + K adalah:",
+    "a": "b",
+    "opts": {
+      "a": "22",
+      "b": "18",
+      "c": "15",
+      "d": "19"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nOR + X = OX\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai O + R + X adalah:",
+    "a": "b",
+    "opts": {
+      "a": "18",
+      "b": "16",
+      "c": "19",
+      "d": "13"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nJL + P = JP\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai J + L + P adalah:",
+    "a": "d",
+    "opts": {
+      "a": "23",
+      "b": "24",
+      "c": "19",
+      "d": "21"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nYH + V = YV\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Y + H + V adalah:",
+    "a": "c",
+    "opts": {
+      "a": "9",
+      "b": "15",
+      "c": "11",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nFS + H = FH\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai F + S + H adalah:",
+    "a": "d",
+    "opts": {
+      "a": "13",
+      "b": "18",
+      "c": "15",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nJH + U = JU\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai J + H + U adalah:",
+    "a": "b",
+    "opts": {
+      "a": "12",
+      "b": "15",
+      "c": "18",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nOZ + Q = OQ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai O + Z + Q adalah:",
+    "a": "a",
+    "opts": {
+      "a": "13",
+      "b": "12",
+      "c": "11",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nOT + R = OR\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai O + T + R adalah:",
+    "a": "b",
+    "opts": {
+      "a": "11",
+      "b": "10",
+      "c": "14",
+      "d": "7"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nVX + Y = VY\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai V + X + Y adalah:",
+    "a": "c",
+    "opts": {
+      "a": "9",
+      "b": "8",
+      "c": "11",
+      "d": "12"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nPA + F = PF\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai P + A + F adalah:",
+    "a": "c",
+    "opts": {
+      "a": "15",
+      "b": "16",
+      "c": "12",
+      "d": "10"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nWF + P = WP\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai W + F + P adalah:",
+    "a": "c",
+    "opts": {
+      "a": "8",
+      "b": "15",
+      "c": "11",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nKB + J = KJ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai K + B + J adalah:",
+    "a": "c",
+    "opts": {
+      "a": "14",
+      "b": "19",
+      "c": "16",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nGF + S = GS\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai G + F + S adalah:",
+    "a": "b",
+    "opts": {
+      "a": "15",
+      "b": "18",
+      "c": "20",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nOI + E = OE\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai O + I + E adalah:",
+    "a": "d",
+    "opts": {
+      "a": "17",
+      "b": "13",
+      "c": "18",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nWH + C = WC\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai W + H + C adalah:",
+    "a": "d",
+    "opts": {
+      "a": "7",
+      "b": "13",
+      "c": "10",
+      "d": "9"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nXJ + P = XP\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai X + J + P adalah:",
+    "a": "b",
+    "opts": {
+      "a": "20",
+      "b": "16",
+      "c": "17",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nOQ + E = OE\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai O + Q + E adalah:",
+    "a": "a",
+    "opts": {
+      "a": "20",
+      "b": "17",
+      "c": "22",
+      "d": "19"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nTR + P = TP\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai T + R + P adalah:",
+    "a": "d",
+    "opts": {
+      "a": "16",
+      "b": "18",
+      "c": "14",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nAV + W = AW\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai A + V + W adalah:",
+    "a": "a",
+    "opts": {
+      "a": "17",
+      "b": "18",
+      "c": "19",
+      "d": "20"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nSA + X = SX\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai S + A + X adalah:",
+    "a": "d",
+    "opts": {
+      "a": "20",
+      "b": "16",
+      "c": "21",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nXU + B = XB\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai X + U + B adalah:",
+    "a": "b",
+    "opts": {
+      "a": "11",
+      "b": "7",
+      "c": "6",
+      "d": "9"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nLQ + B = LB\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai L + Q + B adalah:",
+    "a": "d",
+    "opts": {
+      "a": "16",
+      "b": "20",
+      "c": "14",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nXK + T = XT\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai X + K + T adalah:",
+    "a": "d",
+    "opts": {
+      "a": "11",
+      "b": "15",
+      "c": "13",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nYB + H = YH\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Y + B + H adalah:",
+    "a": "d",
+    "opts": {
+      "a": "13",
+      "b": "18",
+      "c": "15",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nSQ + F = SF\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai S + Q + F adalah:",
+    "a": "c",
+    "opts": {
+      "a": "6",
+      "b": "11",
+      "c": "9",
+      "d": "8"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nWQ + S = WS\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai W + Q + S adalah:",
+    "a": "c",
+    "opts": {
+      "a": "16",
+      "b": "18",
+      "c": "19",
+      "d": "23"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nUV + X = UX\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai U + V + X adalah:",
+    "a": "b",
+    "opts": {
+      "a": "19",
+      "b": "17",
+      "c": "21",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nHD + V = HV\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai H + D + V adalah:",
+    "a": "a",
+    "opts": {
+      "a": "23",
+      "b": "26",
+      "c": "21",
+      "d": "22"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nEB + J = EJ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai E + B + J adalah:",
+    "a": "c",
+    "opts": {
+      "a": "11",
+      "b": "7",
+      "c": "10",
+      "d": "13"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nWY + L = WL\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai W + Y + L adalah:",
+    "a": "c",
+    "opts": {
+      "a": "19",
+      "b": "20",
+      "c": "16",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nQF + I = QI\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Q + F + I adalah:",
+    "a": "a",
+    "opts": {
+      "a": "10",
+      "b": "13",
+      "c": "12",
+      "d": "8"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nZL + F = ZF\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Z + L + F adalah:",
+    "a": "a",
+    "opts": {
+      "a": "10",
+      "b": "13",
+      "c": "8",
+      "d": "9"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nUX + L = UL\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai U + X + L adalah:",
+    "a": "c",
+    "opts": {
+      "a": "19",
+      "b": "18",
+      "c": "20",
+      "d": "21"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nDT + J = DJ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai D + T + J adalah:",
+    "a": "c",
+    "opts": {
+      "a": "9",
+      "b": "10",
+      "c": "11",
+      "d": "13"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nVE + T = VT\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai V + E + T adalah:",
+    "a": "a",
+    "opts": {
+      "a": "12",
+      "b": "14",
+      "c": "16",
+      "d": "9"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nVO + H = VH\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai V + O + H adalah:",
+    "a": "b",
+    "opts": {
+      "a": "26",
+      "b": "23",
+      "c": "20",
+      "d": "22"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nDL + R = DR\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai D + L + R adalah:",
+    "a": "b",
+    "opts": {
+      "a": "22",
+      "b": "18",
+      "c": "16",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nAQ + C = AC\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai A + Q + C adalah:",
+    "a": "a",
+    "opts": {
+      "a": "15",
+      "b": "16",
+      "c": "12",
+      "d": "19"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nHF + S = HS\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai H + F + S adalah:",
+    "a": "b",
+    "opts": {
+      "a": "26",
+      "b": "22",
+      "c": "21",
+      "d": "25"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nUE + N = UN\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai U + E + N adalah:",
+    "a": "a",
+    "opts": {
+      "a": "8",
+      "b": "12",
+      "c": "7",
+      "d": "10"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nPU + M = PM\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai P + U + M adalah:",
+    "a": "a",
+    "opts": {
+      "a": "13",
+      "b": "16",
+      "c": "12",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nCY + P = CP\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai C + Y + P adalah:",
+    "a": "d",
+    "opts": {
+      "a": "12",
+      "b": "6",
+      "c": "10",
+      "d": "9"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nUZ + R = UR\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai U + Z + R adalah:",
+    "a": "d",
+    "opts": {
+      "a": "14",
+      "b": "11",
+      "c": "15",
+      "d": "12"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nVN + S = VS\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai V + N + S adalah:",
+    "a": "b",
+    "opts": {
+      "a": "8",
+      "b": "11",
+      "c": "9",
+      "d": "12"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nJP + V = JV\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai J + P + V adalah:",
+    "a": "d",
+    "opts": {
+      "a": "12",
+      "b": "6",
+      "c": "10",
+      "d": "9"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nGN + H = GH\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai G + N + H adalah:",
+    "a": "a",
+    "opts": {
+      "a": "20",
+      "b": "22",
+      "c": "21",
+      "d": "23"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nRU + P = RP\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai R + U + P adalah:",
+    "a": "c",
+    "opts": {
+      "a": "13",
+      "b": "19",
+      "c": "15",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nKV + I = KI\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai K + V + I adalah:",
+    "a": "c",
+    "opts": {
+      "a": "9",
+      "b": "15",
+      "c": "11",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nBD + H = BH\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai B + D + H adalah:",
+    "a": "d",
+    "opts": {
+      "a": "19",
+      "b": "21",
+      "c": "15",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nBD + V = BV\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai B + D + V adalah:",
+    "a": "b",
+    "opts": {
+      "a": "22",
+      "b": "24",
+      "c": "27",
+      "d": "26"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nPD + O = PO\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai P + D + O adalah:",
+    "a": "a",
+    "opts": {
+      "a": "22",
+      "b": "19",
+      "c": "24",
+      "d": "20"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nLT + J = LJ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai L + T + J adalah:",
+    "a": "a",
+    "opts": {
+      "a": "19",
+      "b": "21",
+      "c": "18",
+      "d": "20"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nJR + Q = JQ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai J + R + Q adalah:",
+    "a": "a",
+    "opts": {
+      "a": "7",
+      "b": "10",
+      "c": "11",
+      "d": "9"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nCW + X = CX\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai C + W + X adalah:",
+    "a": "c",
+    "opts": {
+      "a": "15",
+      "b": "10",
+      "c": "11",
+      "d": "12"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nKF + W = KW\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai K + F + W adalah:",
+    "a": "d",
+    "opts": {
+      "a": "15",
+      "b": "16",
+      "c": "13",
+      "d": "12"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nGM + D = GD\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai G + M + D adalah:",
+    "a": "c",
+    "opts": {
+      "a": "12",
+      "b": "8",
+      "c": "9",
+      "d": "10"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nHP + Z = HZ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai H + P + Z adalah:",
+    "a": "b",
+    "opts": {
+      "a": "23",
+      "b": "21",
+      "c": "25",
+      "d": "24"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nYX + F = YF\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Y + X + F adalah:",
+    "a": "d",
+    "opts": {
+      "a": "13",
+      "b": "8",
+      "c": "9",
+      "d": "10"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nRF + S = RS\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai R + F + S adalah:",
+    "a": "b",
+    "opts": {
+      "a": "21",
+      "b": "17",
+      "c": "16",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nUQ + A = UA\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai U + Q + A adalah:",
+    "a": "d",
+    "opts": {
+      "a": "23",
+      "b": "24",
+      "c": "25",
+      "d": "21"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nQA + X = QX\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Q + A + X adalah:",
+    "a": "c",
+    "opts": {
+      "a": "15",
+      "b": "17",
+      "c": "16",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nFT + V = FV\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai F + T + V adalah:",
+    "a": "a",
+    "opts": {
+      "a": "11",
+      "b": "8",
+      "c": "9",
+      "d": "13"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nXS + C = XC\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai X + S + C adalah:",
+    "a": "b",
+    "opts": {
+      "a": "9",
+      "b": "12",
+      "c": "14",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nHO + B = HB\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai H + O + B adalah:",
+    "a": "b",
+    "opts": {
+      "a": "24",
+      "b": "22",
+      "c": "19",
+      "d": "21"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nRN + U = RU\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai R + N + U adalah:",
+    "a": "d",
+    "opts": {
+      "a": "14",
+      "b": "18",
+      "c": "19",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nJE + G = JG\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai J + E + G adalah:",
+    "a": "a",
+    "opts": {
+      "a": "22",
+      "b": "25",
+      "c": "21",
+      "d": "20"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nVY + I = VI\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai V + Y + I adalah:",
+    "a": "c",
+    "opts": {
+      "a": "8",
+      "b": "15",
+      "c": "11",
+      "d": "12"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nGC + D = GD\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai G + C + D adalah:",
+    "a": "d",
+    "opts": {
+      "a": "18",
+      "b": "12",
+      "c": "16",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nES + N = EN\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai E + S + N adalah:",
+    "a": "b",
+    "opts": {
+      "a": "17",
+      "b": "14",
+      "c": "11",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nDW + C = DC\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai D + W + C adalah:",
+    "a": "b",
+    "opts": {
+      "a": "17",
+      "b": "13",
+      "c": "14",
+      "d": "10"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nFL + M = FM\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai F + L + M adalah:",
+    "a": "b",
+    "opts": {
+      "a": "19",
+      "b": "16",
+      "c": "13",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nCY + S = CS\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai C + Y + S adalah:",
+    "a": "b",
+    "opts": {
+      "a": "8",
+      "b": "9",
+      "c": "13",
+      "d": "12"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nKY + B = KB\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai K + Y + B adalah:",
+    "a": "b",
+    "opts": {
+      "a": "18",
+      "b": "17",
+      "c": "20",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nJM + T = JT\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai J + M + T adalah:",
+    "a": "b",
+    "opts": {
+      "a": "13",
+      "b": "14",
+      "c": "11",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nIZ + O = IO\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai I + Z + O adalah:",
+    "a": "a",
+    "opts": {
+      "a": "19",
+      "b": "23",
+      "c": "20",
+      "d": "22"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nLG + O = LO\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai L + G + O adalah:",
+    "a": "d",
+    "opts": {
+      "a": "21",
+      "b": "20",
+      "c": "14",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nLY + F = LF\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai L + Y + F adalah:",
+    "a": "b",
+    "opts": {
+      "a": "24",
+      "b": "20",
+      "c": "22",
+      "d": "19"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nDG + F = DF\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai D + G + F adalah:",
+    "a": "a",
+    "opts": {
+      "a": "17",
+      "b": "16",
+      "c": "21",
+      "d": "19"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nYJ + O = YO\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Y + J + O adalah:",
+    "a": "b",
+    "opts": {
+      "a": "16",
+      "b": "15",
+      "c": "17",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nAG + H = AH\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai A + G + H adalah:",
+    "a": "d",
+    "opts": {
+      "a": "12",
+      "b": "11",
+      "c": "17",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nNV + I = NI\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai N + V + I adalah:",
+    "a": "c",
+    "opts": {
+      "a": "22",
+      "b": "16",
+      "c": "18",
+      "d": "20"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nQC + W = QW\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Q + C + W adalah:",
+    "a": "b",
+    "opts": {
+      "a": "19",
+      "b": "18",
+      "c": "21",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nYN + O = YO\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Y + N + O adalah:",
+    "a": "c",
+    "opts": {
+      "a": "7",
+      "b": "10",
+      "c": "9",
+      "d": "8"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nVX + E = VE\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai V + X + E adalah:",
+    "a": "a",
+    "opts": {
+      "a": "18",
+      "b": "20",
+      "c": "21",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nSU + A = SA\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai S + U + A adalah:",
+    "a": "b",
+    "opts": {
+      "a": "12",
+      "b": "15",
+      "c": "13",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nAV + S = AS\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai A + V + S adalah:",
+    "a": "a",
+    "opts": {
+      "a": "17",
+      "b": "14",
+      "c": "20",
+      "d": "21"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nOZ + V = OV\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai O + Z + V adalah:",
+    "a": "a",
+    "opts": {
+      "a": "15",
+      "b": "17",
+      "c": "12",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nXJ + G = XG\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai X + J + G adalah:",
+    "a": "a",
+    "opts": {
+      "a": "15",
+      "b": "17",
+      "c": "16",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nWR + G = WG\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai W + R + G adalah:",
+    "a": "d",
+    "opts": {
+      "a": "10",
+      "b": "15",
+      "c": "9",
+      "d": "12"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nHB + R = HR\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai H + B + R adalah:",
+    "a": "d",
+    "opts": {
+      "a": "18",
+      "b": "16",
+      "c": "17",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nTV + Z = TZ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai T + V + Z adalah:",
+    "a": "a",
+    "opts": {
+      "a": "15",
+      "b": "14",
+      "c": "18",
+      "d": "13"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nJL + V = JV\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai J + L + V adalah:",
+    "a": "b",
+    "opts": {
+      "a": "14",
+      "b": "11",
+      "c": "9",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nPM + D = PD\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai P + M + D adalah:",
+    "a": "b",
+    "opts": {
+      "a": "18",
+      "b": "14",
+      "c": "12",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nUP + Q = UQ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai U + P + Q adalah:",
+    "a": "b",
+    "opts": {
+      "a": "18",
+      "b": "16",
+      "c": "14",
+      "d": "20"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nTK + M = TM\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai T + K + M adalah:",
+    "a": "d",
+    "opts": {
+      "a": "20",
+      "b": "17",
+      "c": "22",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nPF + C = PC\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai P + F + C adalah:",
+    "a": "b",
+    "opts": {
+      "a": "12",
+      "b": "15",
+      "c": "16",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nMD + J = MJ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai M + D + J adalah:",
+    "a": "c",
+    "opts": {
+      "a": "22",
+      "b": "17",
+      "c": "20",
+      "d": "19"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nNG + D = ND\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai N + G + D adalah:",
+    "a": "c",
+    "opts": {
+      "a": "15",
+      "b": "21",
+      "c": "17",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nIE + Y = IY\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai I + E + Y adalah:",
+    "a": "b",
+    "opts": {
+      "a": "11",
+      "b": "13",
+      "c": "15",
+      "d": "10"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nLP + F = LF\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai L + P + F adalah:",
+    "a": "c",
+    "opts": {
+      "a": "15",
+      "b": "20",
+      "c": "17",
+      "d": "21"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nCM + D = CD\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai C + M + D adalah:",
+    "a": "a",
+    "opts": {
+      "a": "22",
+      "b": "20",
+      "c": "21",
+      "d": "23"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nEN + I = EI\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai E + N + I adalah:",
+    "a": "c",
+    "opts": {
+      "a": "20",
+      "b": "21",
+      "c": "17",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nND + W = NW\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai N + D + W adalah:",
+    "a": "a",
+    "opts": {
+      "a": "16",
+      "b": "18",
+      "c": "20",
+      "d": "19"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nJC + L = JL\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai J + C + L adalah:",
+    "a": "a",
+    "opts": {
+      "a": "19",
+      "b": "17",
+      "c": "20",
+      "d": "22"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nKW + Y = KY\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai K + W + Y adalah:",
+    "a": "c",
+    "opts": {
+      "a": "20",
+      "b": "18",
+      "c": "19",
+      "d": "23"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nJF + T = JT\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai J + F + T adalah:",
+    "a": "c",
+    "opts": {
+      "a": "19",
+      "b": "22",
+      "c": "21",
+      "d": "25"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nIJ + L = IL\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai I + J + L adalah:",
+    "a": "b",
+    "opts": {
+      "a": "17",
+      "b": "14",
+      "c": "13",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nCU + D = CD\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai C + U + D adalah:",
+    "a": "d",
+    "opts": {
+      "a": "14",
+      "b": "16",
+      "c": "18",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nBX + K = BK\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai B + X + K adalah:",
+    "a": "b",
+    "opts": {
+      "a": "19",
+      "b": "15",
+      "c": "16",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nHL + A = HA\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai H + L + A adalah:",
+    "a": "c",
+    "opts": {
+      "a": "11",
+      "b": "12",
+      "c": "14",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nHE + B = HB\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai H + E + B adalah:",
+    "a": "d",
+    "opts": {
+      "a": "17",
+      "b": "21",
+      "c": "19",
+      "d": "20"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nMS + Q = MQ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai M + S + Q adalah:",
+    "a": "a",
+    "opts": {
+      "a": "16",
+      "b": "20",
+      "c": "18",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nTD + W = TW\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai T + D + W adalah:",
+    "a": "a",
+    "opts": {
+      "a": "15",
+      "b": "12",
+      "c": "16",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nHK + W = HW\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai H + K + W adalah:",
+    "a": "b",
+    "opts": {
+      "a": "14",
+      "b": "17",
+      "c": "15",
+      "d": "20"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nWD + H = WH\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai W + D + H adalah:",
+    "a": "d",
+    "opts": {
+      "a": "18",
+      "b": "14",
+      "c": "13",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nPD + Q = PQ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai P + D + Q adalah:",
+    "a": "b",
+    "opts": {
+      "a": "12",
+      "b": "11",
+      "c": "13",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nGD + Y = GY\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai G + D + Y adalah:",
+    "a": "d",
+    "opts": {
+      "a": "10",
+      "b": "8",
+      "c": "14",
+      "d": "11"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nPN + G = PG\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai P + N + G adalah:",
+    "a": "b",
+    "opts": {
+      "a": "19",
+      "b": "17",
+      "c": "16",
+      "d": "20"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nHK + V = HV\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai H + K + V adalah:",
+    "a": "c",
+    "opts": {
+      "a": "8",
+      "b": "10",
+      "c": "11",
+      "d": "13"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nZI + F = ZF\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Z + I + F adalah:",
+    "a": "a",
+    "opts": {
+      "a": "12",
+      "b": "16",
+      "c": "15",
+      "d": "9"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nAB + N = AN\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai A + B + N adalah:",
+    "a": "a",
+    "opts": {
+      "a": "16",
+      "b": "18",
+      "c": "19",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nFR + O = FO\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai F + R + O adalah:",
+    "a": "b",
+    "opts": {
+      "a": "18",
+      "b": "15",
+      "c": "16",
+      "d": "13"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nTF + Z = TZ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai T + F + Z adalah:",
+    "a": "c",
+    "opts": {
+      "a": "17",
+      "b": "20",
+      "c": "16",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nWK + R = WR\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai W + K + R adalah:",
+    "a": "b",
+    "opts": {
+      "a": "15",
+      "b": "17",
+      "c": "19",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nEF + J = EJ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai E + F + J adalah:",
+    "a": "a",
+    "opts": {
+      "a": "15",
+      "b": "13",
+      "c": "17",
+      "d": "12"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nOR + S = OS\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai O + R + S adalah:",
+    "a": "a",
+    "opts": {
+      "a": "21",
+      "b": "18",
+      "c": "23",
+      "d": "20"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nJE + O = JO\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai J + E + O adalah:",
+    "a": "c",
+    "opts": {
+      "a": "19",
+      "b": "17",
+      "c": "15",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nXC + D = XD\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai X + C + D adalah:",
+    "a": "c",
+    "opts": {
+      "a": "13",
+      "b": "8",
+      "c": "10",
+      "d": "9"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nWF + C = WC\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai W + F + C adalah:",
+    "a": "d",
+    "opts": {
+      "a": "7",
+      "b": "14",
+      "c": "11",
+      "d": "10"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nSB + O = SO\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai S + B + O adalah:",
+    "a": "b",
+    "opts": {
+      "a": "19",
+      "b": "20",
+      "c": "17",
+      "d": "21"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nYH + G = YG\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Y + H + G adalah:",
+    "a": "b",
+    "opts": {
+      "a": "10",
+      "b": "11",
+      "c": "8",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nBJ + L = BL\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai B + J + L adalah:",
+    "a": "a",
+    "opts": {
+      "a": "12",
+      "b": "13",
+      "c": "15",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nTP + X = TX\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai T + P + X adalah:",
+    "a": "c",
+    "opts": {
+      "a": "18",
+      "b": "22",
+      "c": "19",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nGT + F = GF\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai G + T + F adalah:",
+    "a": "d",
+    "opts": {
+      "a": "17",
+      "b": "16",
+      "c": "14",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nLG + Y = LY\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai L + G + Y adalah:",
+    "a": "b",
+    "opts": {
+      "a": "14",
+      "b": "16",
+      "c": "17",
+      "d": "19"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nWA + C = WC\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai W + A + C adalah:",
+    "a": "d",
+    "opts": {
+      "a": "15",
+      "b": "18",
+      "c": "20",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nFS + J = FJ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai F + S + J adalah:",
+    "a": "b",
+    "opts": {
+      "a": "17",
+      "b": "16",
+      "c": "15",
+      "d": "19"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nWM + D = WD\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai W + M + D adalah:",
+    "a": "b",
+    "opts": {
+      "a": "12",
+      "b": "11",
+      "c": "9",
+      "d": "8"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nCJ + L = CL\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai C + J + L adalah:",
+    "a": "c",
+    "opts": {
+      "a": "8",
+      "b": "12",
+      "c": "11",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nOQ + Y = OY\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai O + Q + Y adalah:",
+    "a": "c",
+    "opts": {
+      "a": "19",
+      "b": "23",
+      "c": "20",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nPU + A = PA\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai P + U + A adalah:",
+    "a": "b",
+    "opts": {
+      "a": "10",
+      "b": "12",
+      "c": "9",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nGI + J = GJ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai G + I + J adalah:",
+    "a": "b",
+    "opts": {
+      "a": "15",
+      "b": "12",
+      "c": "13",
+      "d": "9"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nWZ + F = WF\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai W + Z + F adalah:",
+    "a": "c",
+    "opts": {
+      "a": "12",
+      "b": "8",
+      "c": "11",
+      "d": "10"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nLP + I = LI\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai L + P + I adalah:",
+    "a": "a",
+    "opts": {
+      "a": "15",
+      "b": "19",
+      "c": "13",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nVC + F = VF\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai V + C + F adalah:",
+    "a": "d",
+    "opts": {
+      "a": "23",
+      "b": "21",
+      "c": "17",
+      "d": "20"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nIF + A = IA\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai I + F + A adalah:",
+    "a": "b",
+    "opts": {
+      "a": "19",
+      "b": "16",
+      "c": "13",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nNX + I = NI\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai N + X + I adalah:",
+    "a": "d",
+    "opts": {
+      "a": "14",
+      "b": "18",
+      "c": "16",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nZX + S = ZS\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Z + X + S adalah:",
+    "a": "b",
+    "opts": {
+      "a": "14",
+      "b": "15",
+      "c": "13",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nDL + I = DI\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai D + L + I adalah:",
+    "a": "c",
+    "opts": {
+      "a": "12",
+      "b": "10",
+      "c": "11",
+      "d": "8"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nRG + X = RX\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai R + G + X adalah:",
+    "a": "b",
+    "opts": {
+      "a": "10",
+      "b": "9",
+      "c": "12",
+      "d": "8"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nQT + Z = QZ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Q + T + Z adalah:",
+    "a": "b",
+    "opts": {
+      "a": "19",
+      "b": "16",
+      "c": "18",
+      "d": "20"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nWI + F = WF\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai W + I + F adalah:",
+    "a": "d",
+    "opts": {
+      "a": "19",
+      "b": "25",
+      "c": "24",
+      "d": "22"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nTG + I = TI\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai T + G + I adalah:",
+    "a": "c",
+    "opts": {
+      "a": "18",
+      "b": "12",
+      "c": "15",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nLG + R = LR\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai L + G + R adalah:",
+    "a": "a",
+    "opts": {
+      "a": "9",
+      "b": "6",
+      "c": "8",
+      "d": "10"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nWP + Q = WQ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai W + P + Q adalah:",
+    "a": "b",
+    "opts": {
+      "a": "9",
+      "b": "11",
+      "c": "12",
+      "d": "8"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nBK + N = BN\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai B + K + N adalah:",
+    "a": "a",
+    "opts": {
+      "a": "15",
+      "b": "16",
+      "c": "19",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nLG + M = LM\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai L + G + M adalah:",
+    "a": "b",
+    "opts": {
+      "a": "11",
+      "b": "12",
+      "c": "13",
+      "d": "10"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nFE + G = FG\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai F + E + G adalah:",
+    "a": "c",
+    "opts": {
+      "a": "17",
+      "b": "16",
+      "c": "14",
+      "d": "12"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nNM + C = NC\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai N + M + C adalah:",
+    "a": "a",
+    "opts": {
+      "a": "12",
+      "b": "16",
+      "c": "14",
+      "d": "10"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nNG + C = NC\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai N + G + C adalah:",
+    "a": "c",
+    "opts": {
+      "a": "25",
+      "b": "23",
+      "c": "21",
+      "d": "20"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nWF + A = WA\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai W + F + A adalah:",
+    "a": "a",
+    "opts": {
+      "a": "18",
+      "b": "22",
+      "c": "16",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nIF + C = IC\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai I + F + C adalah:",
+    "a": "b",
+    "opts": {
+      "a": "17",
+      "b": "18",
+      "c": "16",
+      "d": "19"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nZK + N = ZN\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Z + K + N adalah:",
+    "a": "d",
+    "opts": {
+      "a": "12",
+      "b": "10",
+      "c": "15",
+      "d": "13"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nJA + F = JF\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai J + A + F adalah:",
+    "a": "a",
+    "opts": {
+      "a": "15",
+      "b": "14",
+      "c": "13",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nLT + J = LJ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai L + T + J adalah:",
+    "a": "a",
+    "opts": {
+      "a": "24",
+      "b": "28",
+      "c": "26",
+      "d": "25"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nGI + Y = GY\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai G + I + Y adalah:",
+    "a": "b",
+    "opts": {
+      "a": "17",
+      "b": "14",
+      "c": "18",
+      "d": "13"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nTE + R = TR\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai T + E + R adalah:",
+    "a": "b",
+    "opts": {
+      "a": "8",
+      "b": "10",
+      "c": "13",
+      "d": "12"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nJK + A = JA\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai J + K + A adalah:",
+    "a": "d",
+    "opts": {
+      "a": "16",
+      "b": "17",
+      "c": "12",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nWQ + R = WR\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai W + Q + R adalah:",
+    "a": "a",
+    "opts": {
+      "a": "24",
+      "b": "23",
+      "c": "21",
+      "d": "26"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nLJ + U = LU\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai L + J + U adalah:",
+    "a": "c",
+    "opts": {
+      "a": "25",
+      "b": "21",
+      "c": "22",
+      "d": "20"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nGZ + S = GS\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai G + Z + S adalah:",
+    "a": "d",
+    "opts": {
+      "a": "13",
+      "b": "10",
+      "c": "9",
+      "d": "12"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nQC + G = QG\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Q + C + G adalah:",
+    "a": "b",
+    "opts": {
+      "a": "16",
+      "b": "14",
+      "c": "18",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nZQ + W = ZW\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Z + Q + W adalah:",
+    "a": "b",
+    "opts": {
+      "a": "10",
+      "b": "11",
+      "c": "15",
+      "d": "8"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nWZ + F = WF\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai W + Z + F adalah:",
+    "a": "b",
+    "opts": {
+      "a": "15",
+      "b": "12",
+      "c": "13",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nZP + M = ZM\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Z + P + M adalah:",
+    "a": "c",
+    "opts": {
+      "a": "16",
+      "b": "13",
+      "c": "12",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nKN + A = KA\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai K + N + A adalah:",
+    "a": "d",
+    "opts": {
+      "a": "19",
+      "b": "13",
+      "c": "18",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nGO + V = GV\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai G + O + V adalah:",
+    "a": "b",
+    "opts": {
+      "a": "13",
+      "b": "14",
+      "c": "11",
+      "d": "12"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nSB + H = SH\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai S + B + H adalah:",
+    "a": "a",
+    "opts": {
+      "a": "18",
+      "b": "17",
+      "c": "22",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nLY + Z = LZ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai L + Y + Z adalah:",
+    "a": "b",
+    "opts": {
+      "a": "10",
+      "b": "13",
+      "c": "16",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nFD + J = FJ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai F + D + J adalah:",
+    "a": "b",
+    "opts": {
+      "a": "10",
+      "b": "12",
+      "c": "15",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nSI + E = SE\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai S + I + E adalah:",
+    "a": "c",
+    "opts": {
+      "a": "15",
+      "b": "16",
+      "c": "17",
+      "d": "21"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nHW + F = HF\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai H + W + F adalah:",
+    "a": "a",
+    "opts": {
+      "a": "17",
+      "b": "14",
+      "c": "18",
+      "d": "20"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nGE + K = GK\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai G + E + K adalah:",
+    "a": "b",
+    "opts": {
+      "a": "22",
+      "b": "19",
+      "c": "23",
+      "d": "21"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nVW + B = VB\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai V + W + B adalah:",
+    "a": "d",
+    "opts": {
+      "a": "23",
+      "b": "25",
+      "c": "24",
+      "d": "22"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nFE + P = FP\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai F + E + P adalah:",
+    "a": "a",
+    "opts": {
+      "a": "6",
+      "b": "5",
+      "c": "10",
+      "d": "9"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nBK + U = BU\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai B + K + U adalah:",
+    "a": "b",
+    "opts": {
+      "a": "18",
+      "b": "17",
+      "c": "19",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nIZ + G = IG\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai I + Z + G adalah:",
+    "a": "a",
+    "opts": {
+      "a": "14",
+      "b": "11",
+      "c": "13",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nDP + E = DE\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai D + P + E adalah:",
+    "a": "a",
+    "opts": {
+      "a": "15",
+      "b": "12",
+      "c": "17",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nBK + V = BV\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai B + K + V adalah:",
+    "a": "c",
+    "opts": {
+      "a": "17",
+      "b": "19",
+      "c": "15",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nJT + F = JF\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai J + T + F adalah:",
+    "a": "b",
+    "opts": {
+      "a": "24",
+      "b": "22",
+      "c": "19",
+      "d": "26"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nTR + B = TB\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai T + R + B adalah:",
+    "a": "a",
+    "opts": {
+      "a": "14",
+      "b": "15",
+      "c": "13",
+      "d": "11"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nHL + Z = HZ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai H + L + Z adalah:",
+    "a": "a",
+    "opts": {
+      "a": "13",
+      "b": "17",
+      "c": "15",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nUH + A = UA\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai U + H + A adalah:",
+    "a": "d",
+    "opts": {
+      "a": "11",
+      "b": "18",
+      "c": "12",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nQE + H = QH\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Q + E + H adalah:",
+    "a": "d",
+    "opts": {
+      "a": "18",
+      "b": "22",
+      "c": "17",
+      "d": "20"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nFK + H = FH\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai F + K + H adalah:",
+    "a": "b",
+    "opts": {
+      "a": "16",
+      "b": "18",
+      "c": "20",
+      "d": "22"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nQA + I = QI\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Q + A + I adalah:",
+    "a": "a",
+    "opts": {
+      "a": "13",
+      "b": "17",
+      "c": "15",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nQD + M = QM\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Q + D + M adalah:",
+    "a": "b",
+    "opts": {
+      "a": "23",
+      "b": "20",
+      "c": "21",
+      "d": "19"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nKT + S = KS\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai K + T + S adalah:",
+    "a": "b",
+    "opts": {
+      "a": "11",
+      "b": "14",
+      "c": "18",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nOP + U = OU\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai O + P + U adalah:",
+    "a": "a",
+    "opts": {
+      "a": "17",
+      "b": "19",
+      "c": "20",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nPI + C = PC\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai P + I + C adalah:",
+    "a": "d",
+    "opts": {
+      "a": "6",
+      "b": "10",
+      "c": "12",
+      "d": "9"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nYK + T = YT\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Y + K + T adalah:",
+    "a": "a",
+    "opts": {
+      "a": "11",
+      "b": "15",
+      "c": "12",
+      "d": "8"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nJA + M = JM\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai J + A + M adalah:",
+    "a": "b",
+    "opts": {
+      "a": "26",
+      "b": "22",
+      "c": "21",
+      "d": "24"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nCI + N = CN\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai C + I + N adalah:",
+    "a": "a",
+    "opts": {
+      "a": "16",
+      "b": "13",
+      "c": "15",
+      "d": "19"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nOP + T = OT\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai O + P + T adalah:",
+    "a": "b",
+    "opts": {
+      "a": "20",
+      "b": "16",
+      "c": "15",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nZA + F = ZF\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Z + A + F adalah:",
+    "a": "d",
+    "opts": {
+      "a": "13",
+      "b": "9",
+      "c": "7",
+      "d": "10"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nBH + J = BJ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai B + H + J adalah:",
+    "a": "a",
+    "opts": {
+      "a": "15",
+      "b": "16",
+      "c": "19",
+      "d": "12"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nEA + V = EV\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai E + A + V adalah:",
+    "a": "b",
+    "opts": {
+      "a": "14",
+      "b": "17",
+      "c": "20",
+      "d": "21"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nKO + F = KF\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai K + O + F adalah:",
+    "a": "d",
+    "opts": {
+      "a": "15",
+      "b": "9",
+      "c": "12",
+      "d": "11"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nYN + J = YJ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Y + N + J adalah:",
+    "a": "a",
+    "opts": {
+      "a": "18",
+      "b": "22",
+      "c": "21",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nCJ + L = CL\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai C + J + L adalah:",
+    "a": "b",
+    "opts": {
+      "a": "9",
+      "b": "8",
+      "c": "12",
+      "d": "5"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nXN + V = XV\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai X + N + V adalah:",
+    "a": "c",
+    "opts": {
+      "a": "17",
+      "b": "18",
+      "c": "14",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nVO + U = VU\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai V + O + U adalah:",
+    "a": "c",
+    "opts": {
+      "a": "21",
+      "b": "18",
+      "c": "19",
+      "d": "20"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nZB + E = ZE\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Z + B + E adalah:",
+    "a": "d",
+    "opts": {
+      "a": "11",
+      "b": "7",
+      "c": "12",
+      "d": "10"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nNJ + Y = NY\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai N + J + Y adalah:",
+    "a": "c",
+    "opts": {
+      "a": "8",
+      "b": "7",
+      "c": "10",
+      "d": "13"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nHS + X = HX\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai H + S + X adalah:",
+    "a": "d",
+    "opts": {
+      "a": "10",
+      "b": "15",
+      "c": "14",
+      "d": "13"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nBK + V = BV\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai B + K + V adalah:",
+    "a": "c",
+    "opts": {
+      "a": "17",
+      "b": "18",
+      "c": "16",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nTL + H = TH\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai T + L + H adalah:",
+    "a": "d",
+    "opts": {
+      "a": "11",
+      "b": "12",
+      "c": "13",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nTH + R = TR\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai T + H + R adalah:",
+    "a": "a",
+    "opts": {
+      "a": "13",
+      "b": "16",
+      "c": "10",
+      "d": "12"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nEG + R = ER\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai E + G + R adalah:",
+    "a": "c",
+    "opts": {
+      "a": "11",
+      "b": "13",
+      "c": "12",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nVY + P = VP\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai V + Y + P adalah:",
+    "a": "a",
+    "opts": {
+      "a": "16",
+      "b": "15",
+      "c": "20",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nQC + O = QO\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Q + C + O adalah:",
+    "a": "c",
+    "opts": {
+      "a": "19",
+      "b": "14",
+      "c": "16",
+      "d": "20"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nDM + O = DO\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai D + M + O adalah:",
+    "a": "d",
+    "opts": {
+      "a": "9",
+      "b": "14",
+      "c": "8",
+      "d": "10"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nGA + Q = GQ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai G + A + Q adalah:",
+    "a": "d",
+    "opts": {
+      "a": "11",
+      "b": "16",
+      "c": "13",
+      "d": "12"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nIS + Z = IZ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai I + S + Z adalah:",
+    "a": "a",
+    "opts": {
+      "a": "11",
+      "b": "9",
+      "c": "13",
+      "d": "12"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nGX + R = GR\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai G + X + R adalah:",
+    "a": "a",
+    "opts": {
+      "a": "12",
+      "b": "11",
+      "c": "14",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nXZ + U = XU\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai X + Z + U adalah:",
+    "a": "a",
+    "opts": {
+      "a": "12",
+      "b": "16",
+      "c": "14",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nAD + L = AL\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai A + D + L adalah:",
+    "a": "b",
+    "opts": {
+      "a": "22",
+      "b": "18",
+      "c": "20",
+      "d": "19"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nUS + R = UR\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai U + S + R adalah:",
+    "a": "b",
+    "opts": {
+      "a": "10",
+      "b": "12",
+      "c": "16",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nTQ + S = TS\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai T + Q + S adalah:",
+    "a": "b",
+    "opts": {
+      "a": "20",
+      "b": "17",
+      "c": "19",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nFQ + R = FR\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai F + Q + R adalah:",
+    "a": "b",
+    "opts": {
+      "a": "18",
+      "b": "17",
+      "c": "16",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nDE + F = DF\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai D + E + F adalah:",
+    "a": "c",
+    "opts": {
+      "a": "22",
+      "b": "20",
+      "c": "21",
+      "d": "19"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nMT + O = MO\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai M + T + O adalah:",
+    "a": "b",
+    "opts": {
+      "a": "23",
+      "b": "19",
+      "c": "22",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nMY + E = ME\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai M + Y + E adalah:",
+    "a": "b",
+    "opts": {
+      "a": "14",
+      "b": "16",
+      "c": "20",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nWO + J = WJ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai W + O + J adalah:",
+    "a": "d",
+    "opts": {
+      "a": "19",
+      "b": "13",
+      "c": "15",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nKA + J = KJ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai K + A + J adalah:",
+    "a": "b",
+    "opts": {
+      "a": "11",
+      "b": "14",
+      "c": "16",
+      "d": "12"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nUR + I = UI\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai U + R + I adalah:",
+    "a": "b",
+    "opts": {
+      "a": "24",
+      "b": "20",
+      "c": "23",
+      "d": "21"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nVJ + U = VU\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai V + J + U adalah:",
+    "a": "c",
+    "opts": {
+      "a": "20",
+      "b": "21",
+      "c": "18",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nFW + S = FS\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai F + W + S adalah:",
+    "a": "d",
+    "opts": {
+      "a": "18",
+      "b": "14",
+      "c": "19",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nWC + F = WF\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai W + C + F adalah:",
+    "a": "b",
+    "opts": {
+      "a": "16",
+      "b": "17",
+      "c": "18",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nJR + M = JM\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai J + R + M adalah:",
+    "a": "a",
+    "opts": {
+      "a": "12",
+      "b": "15",
+      "c": "14",
+      "d": "11"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nSO + A = SA\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai S + O + A adalah:",
+    "a": "c",
+    "opts": {
+      "a": "21",
+      "b": "20",
+      "c": "17",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nPW + H = PH\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai P + W + H adalah:",
+    "a": "c",
+    "opts": {
+      "a": "10",
+      "b": "4",
+      "c": "7",
+      "d": "11"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nHW + Y = HY\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai H + W + Y adalah:",
+    "a": "a",
+    "opts": {
+      "a": "12",
+      "b": "14",
+      "c": "11",
+      "d": "10"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nIC + D = ID\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai I + C + D adalah:",
+    "a": "c",
+    "opts": {
+      "a": "12",
+      "b": "11",
+      "c": "9",
+      "d": "7"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nQN + D = QD\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Q + N + D adalah:",
+    "a": "d",
+    "opts": {
+      "a": "18",
+      "b": "16",
+      "c": "20",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nFO + X = FX\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai F + O + X adalah:",
+    "a": "d",
+    "opts": {
+      "a": "18",
+      "b": "20",
+      "c": "16",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nLK + O = LO\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai L + K + O adalah:",
+    "a": "d",
+    "opts": {
+      "a": "8",
+      "b": "13",
+      "c": "14",
+      "d": "11"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nZN + B = ZB\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Z + N + B adalah:",
+    "a": "d",
+    "opts": {
+      "a": "8",
+      "b": "13",
+      "c": "15",
+      "d": "11"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nYL + M = YM\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Y + L + M adalah:",
+    "a": "a",
+    "opts": {
+      "a": "10",
+      "b": "7",
+      "c": "14",
+      "d": "13"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nZI + R = ZR\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Z + I + R adalah:",
+    "a": "c",
+    "opts": {
+      "a": "25",
+      "b": "18",
+      "c": "21",
+      "d": "23"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nTE + X = TX\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai T + E + X adalah:",
+    "a": "c",
+    "opts": {
+      "a": "10",
+      "b": "11",
+      "c": "12",
+      "d": "9"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nEM + D = ED\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai E + M + D adalah:",
+    "a": "a",
+    "opts": {
+      "a": "17",
+      "b": "14",
+      "c": "15",
+      "d": "20"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nZH + B = ZB\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Z + H + B adalah:",
+    "a": "b",
+    "opts": {
+      "a": "10",
+      "b": "11",
+      "c": "8",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nLS + R = LR\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai L + S + R adalah:",
+    "a": "d",
+    "opts": {
+      "a": "15",
+      "b": "13",
+      "c": "10",
+      "d": "11"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nRP + G = RG\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai R + P + G adalah:",
+    "a": "b",
+    "opts": {
+      "a": "19",
+      "b": "18",
+      "c": "20",
+      "d": "21"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nBQ + V = BV\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai B + Q + V adalah:",
+    "a": "a",
+    "opts": {
+      "a": "21",
+      "b": "23",
+      "c": "24",
+      "d": "20"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nKN + W = KW\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai K + N + W adalah:",
+    "a": "c",
+    "opts": {
+      "a": "9",
+      "b": "13",
+      "c": "12",
+      "d": "10"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nDY + J = DJ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai D + Y + J adalah:",
+    "a": "b",
+    "opts": {
+      "a": "13",
+      "b": "16",
+      "c": "20",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nGR + S = GS\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai G + R + S adalah:",
+    "a": "b",
+    "opts": {
+      "a": "13",
+      "b": "14",
+      "c": "18",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nZT + I = ZI\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Z + T + I adalah:",
+    "a": "d",
+    "opts": {
+      "a": "16",
+      "b": "23",
+      "c": "22",
+      "d": "19"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nPN + K = PK\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai P + N + K adalah:",
+    "a": "a",
+    "opts": {
+      "a": "17",
+      "b": "18",
+      "c": "19",
+      "d": "20"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nCN + P = CP\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai C + N + P adalah:",
+    "a": "c",
+    "opts": {
+      "a": "8",
+      "b": "14",
+      "c": "10",
+      "d": "11"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nHU + X = HX\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai H + U + X adalah:",
+    "a": "b",
+    "opts": {
+      "a": "9",
+      "b": "12",
+      "c": "11",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nNF + A = NA\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai N + F + A adalah:",
+    "a": "d",
+    "opts": {
+      "a": "18",
+      "b": "11",
+      "c": "12",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nVH + A = VA\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai V + H + A adalah:",
+    "a": "b",
+    "opts": {
+      "a": "12",
+      "b": "13",
+      "c": "17",
+      "d": "10"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nTZ + L = TL\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai T + Z + L adalah:",
+    "a": "d",
+    "opts": {
+      "a": "17",
+      "b": "20",
+      "c": "22",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nWI + G = WG\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai W + I + G adalah:",
+    "a": "c",
+    "opts": {
+      "a": "14",
+      "b": "10",
+      "c": "11",
+      "d": "8"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nHT + L = HL\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai H + T + L adalah:",
+    "a": "b",
+    "opts": {
+      "a": "25",
+      "b": "22",
+      "c": "26",
+      "d": "21"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nMY + J = MJ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai M + Y + J adalah:",
+    "a": "c",
+    "opts": {
+      "a": "14",
+      "b": "10",
+      "c": "13",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nUV + K = UK\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai U + V + K adalah:",
+    "a": "d",
+    "opts": {
+      "a": "12",
+      "b": "11",
+      "c": "15",
+      "d": "13"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nAM + H = AH\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai A + M + H adalah:",
+    "a": "b",
+    "opts": {
+      "a": "25",
+      "b": "21",
+      "c": "20",
+      "d": "24"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nWF + J = WJ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai W + F + J adalah:",
+    "a": "b",
+    "opts": {
+      "a": "18",
+      "b": "17",
+      "c": "15",
+      "d": "20"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nVB + M = VM\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai V + B + M adalah:",
+    "a": "d",
+    "opts": {
+      "a": "5",
+      "b": "10",
+      "c": "9",
+      "d": "8"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nLQ + J = LJ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai L + Q + J adalah:",
+    "a": "b",
+    "opts": {
+      "a": "14",
+      "b": "15",
+      "c": "19",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nRA + T = RT\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai R + A + T adalah:",
+    "a": "c",
+    "opts": {
+      "a": "19",
+      "b": "12",
+      "c": "15",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nEH + Q = EQ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai E + H + Q adalah:",
+    "a": "a",
+    "opts": {
+      "a": "9",
+      "b": "6",
+      "c": "10",
+      "d": "11"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nJH + D = JD\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai J + H + D adalah:",
+    "a": "a",
+    "opts": {
+      "a": "17",
+      "b": "20",
+      "c": "18",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nKL + Y = KY\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai K + L + Y adalah:",
+    "a": "c",
+    "opts": {
+      "a": "18",
+      "b": "19",
+      "c": "21",
+      "d": "22"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nZP + G = ZG\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Z + P + G adalah:",
+    "a": "d",
+    "opts": {
+      "a": "10",
+      "b": "8",
+      "c": "14",
+      "d": "11"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nUX + P = UP\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai U + X + P adalah:",
+    "a": "a",
+    "opts": {
+      "a": "16",
+      "b": "19",
+      "c": "13",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nME + Y = MY\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai M + E + Y adalah:",
+    "a": "c",
+    "opts": {
+      "a": "15",
+      "b": "17",
+      "c": "18",
+      "d": "20"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nLN + C = LC\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai L + N + C adalah:",
+    "a": "b",
+    "opts": {
+      "a": "15",
+      "b": "14",
+      "c": "17",
+      "d": "11"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nSV + U = SU\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai S + V + U adalah:",
+    "a": "d",
+    "opts": {
+      "a": "8",
+      "b": "12",
+      "c": "13",
+      "d": "10"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nQW + E = QE\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Q + W + E adalah:",
+    "a": "a",
+    "opts": {
+      "a": "13",
+      "b": "16",
+      "c": "14",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nDS + W = DW\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai D + S + W adalah:",
+    "a": "b",
+    "opts": {
+      "a": "16",
+      "b": "12",
+      "c": "14",
+      "d": "13"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nUR + T = UT\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai U + R + T adalah:",
+    "a": "c",
+    "opts": {
+      "a": "14",
+      "b": "15",
+      "c": "13",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nAM + O = AO\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai A + M + O adalah:",
+    "a": "d",
+    "opts": {
+      "a": "4",
+      "b": "7",
+      "c": "5",
+      "d": "6"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nLY + G = LG\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai L + Y + G adalah:",
+    "a": "b",
+    "opts": {
+      "a": "21",
+      "b": "23",
+      "c": "25",
+      "d": "26"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nVN + U = VU\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai V + N + U adalah:",
+    "a": "c",
+    "opts": {
+      "a": "17",
+      "b": "19",
+      "c": "15",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nRD + T = RT\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai R + D + T adalah:",
+    "a": "c",
+    "opts": {
+      "a": "24",
+      "b": "20",
+      "c": "21",
+      "d": "22"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nPA + S = PS\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai P + A + S adalah:",
+    "a": "b",
+    "opts": {
+      "a": "16",
+      "b": "15",
+      "c": "14",
+      "d": "13"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nLS + A = LA\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai L + S + A adalah:",
+    "a": "a",
+    "opts": {
+      "a": "11",
+      "b": "13",
+      "c": "12",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nRO + H = RH\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai R + O + H adalah:",
+    "a": "a",
+    "opts": {
+      "a": "14",
+      "b": "18",
+      "c": "15",
+      "d": "11"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nJM + P = JP\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai J + M + P adalah:",
+    "a": "b",
+    "opts": {
+      "a": "7",
+      "b": "10",
+      "c": "9",
+      "d": "8"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nVJ + H = VH\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai V + J + H adalah:",
+    "a": "d",
+    "opts": {
+      "a": "11",
+      "b": "7",
+      "c": "9",
+      "d": "10"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nPT + H = PH\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai P + T + H adalah:",
+    "a": "c",
+    "opts": {
+      "a": "11",
+      "b": "5",
+      "c": "8",
+      "d": "12"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nRU + M = RM\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai R + U + M adalah:",
+    "a": "d",
+    "opts": {
+      "a": "18",
+      "b": "13",
+      "c": "14",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nYX + F = YF\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Y + X + F adalah:",
+    "a": "a",
+    "opts": {
+      "a": "13",
+      "b": "10",
+      "c": "11",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nOV + U = OU\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai O + V + U adalah:",
+    "a": "c",
+    "opts": {
+      "a": "11",
+      "b": "16",
+      "c": "14",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nAN + P = AP\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai A + N + P adalah:",
+    "a": "c",
+    "opts": {
+      "a": "10",
+      "b": "17",
+      "c": "13",
+      "d": "11"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nXJ + D = XD\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai X + J + D adalah:",
+    "a": "d",
+    "opts": {
+      "a": "20",
+      "b": "19",
+      "c": "16",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nFH + Q = FQ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai F + H + Q adalah:",
+    "a": "d",
+    "opts": {
+      "a": "22",
+      "b": "17",
+      "c": "21",
+      "d": "20"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nPX + Q = PQ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai P + X + Q adalah:",
+    "a": "d",
+    "opts": {
+      "a": "13",
+      "b": "7",
+      "c": "12",
+      "d": "10"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nHZ + U = HU\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai H + Z + U adalah:",
+    "a": "b",
+    "opts": {
+      "a": "20",
+      "b": "19",
+      "c": "18",
+      "d": "23"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nPS + R = PR\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai P + S + R adalah:",
+    "a": "a",
+    "opts": {
+      "a": "19",
+      "b": "16",
+      "c": "20",
+      "d": "22"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nXP + G = XG\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai X + P + G adalah:",
+    "a": "c",
+    "opts": {
+      "a": "14",
+      "b": "12",
+      "c": "15",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nFC + S = FS\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai F + C + S adalah:",
+    "a": "a",
+    "opts": {
+      "a": "13",
+      "b": "10",
+      "c": "15",
+      "d": "11"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nNX + C = NC\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai N + X + C adalah:",
+    "a": "d",
+    "opts": {
+      "a": "15",
+      "b": "10",
+      "c": "12",
+      "d": "13"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nFO + X = FX\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai F + O + X adalah:",
+    "a": "c",
+    "opts": {
+      "a": "19",
+      "b": "14",
+      "c": "17",
+      "d": "21"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nXZ + C = XC\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai X + Z + C adalah:",
+    "a": "b",
+    "opts": {
+      "a": "12",
+      "b": "14",
+      "c": "13",
+      "d": "11"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nOX + S = OS\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai O + X + S adalah:",
+    "a": "b",
+    "opts": {
+      "a": "28",
+      "b": "24",
+      "c": "27",
+      "d": "25"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nIP + C = IC\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai I + P + C adalah:",
+    "a": "b",
+    "opts": {
+      "a": "14",
+      "b": "17",
+      "c": "18",
+      "d": "20"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nOQ + T = OT\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai O + Q + T adalah:",
+    "a": "a",
+    "opts": {
+      "a": "15",
+      "b": "19",
+      "c": "17",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nPR + A = PA\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai P + R + A adalah:",
+    "a": "c",
+    "opts": {
+      "a": "10",
+      "b": "12",
+      "c": "13",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nSE + K = SK\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai S + E + K adalah:",
+    "a": "c",
+    "opts": {
+      "a": "19",
+      "b": "23",
+      "c": "20",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nLE + G = LG\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai L + E + G adalah:",
+    "a": "b",
+    "opts": {
+      "a": "17",
+      "b": "16",
+      "c": "15",
+      "d": "20"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nJA + G = JG\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai J + A + G adalah:",
+    "a": "d",
+    "opts": {
+      "a": "18",
+      "b": "14",
+      "c": "15",
+      "d": "17"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nXD + U = XU\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai X + D + U adalah:",
+    "a": "b",
+    "opts": {
+      "a": "23",
+      "b": "19",
+      "c": "18",
+      "d": "21"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nBY + N = BN\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai B + Y + N adalah:",
+    "a": "b",
+    "opts": {
+      "a": "14",
+      "b": "13",
+      "c": "12",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nJO + R = JR\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai J + O + R adalah:",
+    "a": "d",
+    "opts": {
+      "a": "18",
+      "b": "20",
+      "c": "22",
+      "d": "19"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nKY + G = KG\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai K + Y + G adalah:",
+    "a": "d",
+    "opts": {
+      "a": "16",
+      "b": "9",
+      "c": "11",
+      "d": "12"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nEF + X = EX\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai E + F + X adalah:",
+    "a": "c",
+    "opts": {
+      "a": "13",
+      "b": "16",
+      "c": "14",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nQY + W = QW\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Q + Y + W adalah:",
+    "a": "b",
+    "opts": {
+      "a": "22",
+      "b": "18",
+      "c": "17",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nHB + Y = HY\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai H + B + Y adalah:",
+    "a": "d",
+    "opts": {
+      "a": "22",
+      "b": "18",
+      "c": "16",
+      "d": "19"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nWR + P = WP\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai W + R + P adalah:",
+    "a": "a",
+    "opts": {
+      "a": "10",
+      "b": "8",
+      "c": "12",
+      "d": "7"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nJC + M = JM\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai J + C + M adalah:",
+    "a": "d",
+    "opts": {
+      "a": "17",
+      "b": "15",
+      "c": "18",
+      "d": "14"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nXO + A = XA\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai X + O + A adalah:",
+    "a": "a",
+    "opts": {
+      "a": "11",
+      "b": "14",
+      "c": "10",
+      "d": "12"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nUO + F = UF\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai U + O + F adalah:",
+    "a": "c",
+    "opts": {
+      "a": "8",
+      "b": "13",
+      "c": "11",
+      "d": "9"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nJK + G = JG\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai J + K + G adalah:",
+    "a": "c",
+    "opts": {
+      "a": "24",
+      "b": "20",
+      "c": "21",
+      "d": "25"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nFV + P = FP\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai F + V + P adalah:",
+    "a": "b",
+    "opts": {
+      "a": "16",
+      "b": "13",
+      "c": "17",
+      "d": "15"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nDN + T = DT\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai D + N + T adalah:",
+    "a": "c",
+    "opts": {
+      "a": "15",
+      "b": "16",
+      "c": "13",
+      "d": "11"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nZF + X = ZX\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Z + F + X adalah:",
+    "a": "a",
+    "opts": {
+      "a": "17",
+      "b": "20",
+      "c": "15",
+      "d": "16"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nYA + H = YH\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Y + A + H adalah:",
+    "a": "a",
+    "opts": {
+      "a": "12",
+      "b": "10",
+      "c": "9",
+      "d": "13"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nRJ + V = RV\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai R + J + V adalah:",
+    "a": "d",
+    "opts": {
+      "a": "17",
+      "b": "16",
+      "c": "21",
+      "d": "19"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nCQ + E = CE\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai C + Q + E adalah:",
+    "a": "c",
+    "opts": {
+      "a": "15",
+      "b": "22",
+      "c": "18",
+      "d": "20"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nRH + J = RJ\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai R + H + J adalah:",
+    "a": "d",
+    "opts": {
+      "a": "11",
+      "b": "7",
+      "c": "6",
+      "d": "8"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nQA + F = QF\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Q + A + F adalah:",
+    "a": "d",
+    "opts": {
+      "a": "20",
+      "b": "15",
+      "c": "21",
+      "d": "18"
+    }
+  },
+  {
+    "q": "Diketahui cryptarithm berikut:\nZL + N = ZN\nJika setiap huruf mewakili satu digit berbeda (1–9), maka nilai Z + L + N adalah:",
+    "a": "c",
+    "opts": {
+      "a": "19",
+      "b": "20",
+      "c": "21",
+      "d": "24"
+    }
+  }
+]
