@@ -1,0 +1,50 @@
+# ===========================================
+# Discord Bot Credentials (WAJIB)
+# ===========================================
+BOT_TOKEN=your_discord_bot_token_here
+
+# ===========================================
+# Server-specific Configuration (comma-separated IDs)
+# ===========================================
+VOICE_ADMIN_IDS=
+PROTECTED_USER_IDS=
+JOCKIE_BOT_IDS=
+GAME_BOT_IDS=
+GAME_ALLOWED_CHANNEL_IDS=
+MUSIC_ALLOWED_CHANNEL_ID=
+MINORITY_ROLE_ID=
+VOICE_CHANNEL_ID=
+WELCOME_CHANNEL_ID=
+LEAVE_CHANNEL_ID=
+MONTHLY_RESET_CHANNEL_ID=
+
+# ===========================================
+# Public Data Endpoints (optional)
+# ===========================================
+MUSIC_DATA_URL=
+
+# ===========================================
+# Branding
+# ===========================================
+FOOTER_TEXT=Your Community
+BOT_NAME=Discord Game Bot
+CERTIFICATE_ISSUER=Discord Game Bot
+MARKET_FOOTER=Discord Game Bot
+
+# ===========================================
+# Admin/Owner IDs
+# ===========================================
+OWNER_IDS=
+MAIN_CHANNEL_ID=
+ALERT_USER_ID=
+MARKET_CHANNEL_ID=
+CONFESSION_CHANNEL_ID=
+
+# ===========================================
+# Market Module (optional)
+# ===========================================
+MARKET_BTC_BASE=70000
+MARKET_BTC_DROP_PERCENT=3
+MARKET_UPDATE_INTERVAL_MS=30000
+MARKET_UPDATE_MINUTES=0,15,30,45
+MARKET_TIMEZONE=Asia/Jakarta
